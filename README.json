@@ -1,0 +1,1184 @@
+{
+  "items": [
+    {
+      "description": "Stop guessing. Here are three battle-tested stacks for different stages of maturity.",
+      "items": [],
+      "title": "Reference Architectures"
+    },
+    {
+      "description": "Learn from production RAG implementations at scale. These companies have battle-tested their systems with millions of users.",
+      "items": [],
+      "title": "Real-World Case Studies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks & Orchestration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T02:16:57Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGFlow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T02:38:39Z",
+            "owner": "infiniflow",
+            "repo": "ragflow",
+            "stars": 88092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pathway",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:29:01Z",
+            "owner": "pathwaycom",
+            "repo": "pathway",
+            "stars": 62468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaIndex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:07:47Z",
+            "owner": "run-llama",
+            "repo": "llama_index",
+            "stars": 51629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangGraph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:07:56Z",
+            "owner": "langchain-ai",
+            "repo": "langgraph",
+            "stars": 39642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSPy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:41:42Z",
+            "owner": "stanfordnlp",
+            "repo": "dspy",
+            "stars": 37179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haystack",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:00:53Z",
+            "owner": "deepset-ai",
+            "repo": "haystack",
+            "stars": 26203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R2R",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T01:02:44Z",
+            "owner": "SciPhi-AI",
+            "repo": "R2R",
+            "stars": 7960
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verba",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-08T09:25:18Z",
+            "owner": "weaviate",
+            "repo": "Verba",
+            "stars": 7712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cognita",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-03-13T15:04:36Z",
+            "owner": "truefoundry",
+            "repo": "cognita",
+            "stars": 4415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-16T13:11:34Z",
+            "owner": "agentset-ai",
+            "repo": "agentset",
+            "stars": 2057
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firecrawl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T00:14:11Z",
+            "owner": "firecrawl",
+            "repo": "firecrawl",
+            "stars": 167035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaddleOCR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T11:59:34Z",
+            "owner": "PaddlePaddle",
+            "repo": "PaddleOCR",
+            "stars": 87603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crawl4AI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:36:00Z",
+            "owner": "unclecode",
+            "repo": "crawl4ai",
+            "stars": 78059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:23:05Z",
+            "owner": "docling-project",
+            "repo": "docling",
+            "stars": 64734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T06:33:06Z",
+            "owner": "datalab-to",
+            "repo": "marker",
+            "stars": 38723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDataLoader PDF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T09:41:47Z",
+            "owner": "opendataloader-project",
+            "repo": "opendataloader-pdf",
+            "stars": 28382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unstructured",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T20:50:32Z",
+            "owner": "Unstructured-IO",
+            "repo": "unstructured",
+            "stars": 15309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniParse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T15:47:46Z",
+            "owner": "adithya-s-k",
+            "repo": "omniparse",
+            "stars": 7797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaParse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-18T19:09:10Z",
+            "owner": "run-llama",
+            "repo": "llama_cloud_services",
+            "stars": 4260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semark",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T00:15:56Z",
+            "owner": "KingsleyOWO",
+            "repo": "Semark",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Data Ingestion & Parsing"
+    },
+    {
+      "description": "Bottom line: There is no single \"best\" vector DB — match it to your constraints. Use pgvector if you already run PostgreSQL, Qdrant for strong metadata filtering and a generous free tier under ~50M vectors, Milvus to scale toward billions, Pinecone for zero-ops serverless, and Chroma for local prototyping.\nDeep dive: Vector Database Comparison — a decision framework by scale, deployment, filtering, hybrid search, and cost.",
+      "items": [],
+      "title": "Vector Databases"
+    },
+    {
+      "description": "How you split documents into chunks is one of the most underrated decisions in a RAG pipeline. The wrong chunking strategy silently degrades retrieval quality regardless of how good your embedding model is. See rag-pitfalls.md — Fixed Chunk Size Everywhere for the failure modes.\nDeep dive: Chunking Strategies — strategy catalog, chunk size and overlap, tooling, and how to evaluate chunking on your corpus.\nChunking strategies at a glance:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Unstructured",
+          "description": "see Data Ingestion & Parsing for the full entry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-12T20:50:32Z",
+            "owner": "Unstructured-IO",
+            "repo": "unstructured",
+            "stars": 15309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chonkie",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T10:44:42Z",
+            "owner": "feyninc",
+            "repo": "chonkie",
+            "stars": 4672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semchunk",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-13T00:44:46Z",
+            "owner": "isaacus-dev",
+            "repo": "semchunk",
+            "stars": 661
+          }
+        }
+      ],
+      "title": "Chunking & Document Processing"
+    },
+    {
+      "description": "Hybrid Search: A retrieval strategy that linearly combines Dense Vector Search (semantic understanding) with Sparse Keyword Search (BM25 for exact term matching). This mitigates the \"lost in the middle\" phenomenon and significantly improves zero-shot retrieval performance.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PageIndex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T10:37:26Z",
+            "owner": "VectifyAI",
+            "repo": "PageIndex",
+            "stars": 35175
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGatouille",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-17T12:45:38Z",
+            "owner": "AnswerDotAI",
+            "repo": "RAGatouille",
+            "stars": 3950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlashRank",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T08:06:27Z",
+            "owner": "PrithivirajDamodaran",
+            "repo": "FlashRank",
+            "stars": 1001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "psql_bm25s",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2026-05-14T15:20:32Z",
+            "owner": "Intelligent-Internet",
+            "repo": "psql_bm25s",
+            "stars": 146
+          }
+        }
+      ],
+      "title": "Retrieval & Reranking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RAGFlow",
+          "description": "see Frameworks & Orchestration for the full entry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T02:38:39Z",
+            "owner": "infiniflow",
+            "repo": "ragflow",
+            "stars": 88092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoGen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrewAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T01:27:38Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangGraph",
+          "description": "see Frameworks & Orchestration for the full entry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:07:56Z",
+            "owner": "langchain-ai",
+            "repo": "langgraph",
+            "stars": 39642
+          }
+        }
+      ],
+      "title": "Frameworks & Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mem0",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:09:47Z",
+            "owner": "mem0ai",
+            "repo": "mem0",
+            "stars": 63216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zep / Graphiti",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:59:47Z",
+            "owner": "getzep",
+            "repo": "graphiti",
+            "stars": 29902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Letta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:08:41Z",
+            "owner": "letta-ai",
+            "repo": "letta",
+            "stars": 24232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangMem",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T00:18:37Z",
+            "owner": "langchain-ai",
+            "repo": "langmem",
+            "stars": 1606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vestige",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:35:40Z",
+            "owner": "samvallad33",
+            "repo": "vestige",
+            "stars": 602
+          }
+        }
+      ],
+      "title": "Frameworks & Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Marqo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:50:53Z",
+            "owner": "marqo-ai",
+            "repo": "marqo",
+            "stars": 5021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColPali",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T23:53:31Z",
+            "owner": "illuin-tech",
+            "repo": "colpali",
+            "stars": 2736
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Byaldi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-28T20:47:40Z",
+            "owner": "AnswerDotAI",
+            "repo": "byaldi",
+            "stars": 851
+          }
+        }
+      ],
+      "title": "Frameworks & Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vanna",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-02-02T14:14:20Z",
+            "owner": "vanna-ai",
+            "repo": "vanna",
+            "stars": 23828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WrenAI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:42:47Z",
+            "owner": "Canner",
+            "repo": "WrenAI",
+            "stars": 17263
+          }
+        }
+      ],
+      "title": "Frameworks & Tools"
+    },
+    {
+      "description": "Reliable RAG requires measuring the RAG Triad: Context Relevance, Groundedness, and Answer Relevance.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepEval",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:53:41Z",
+            "owner": "confident-ai",
+            "repo": "deepeval",
+            "stars": 17580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ragas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-24T07:47:19Z",
+            "owner": "vibrantlabsai",
+            "repo": "ragas",
+            "stars": 15306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TruLens",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:02:46Z",
+            "owner": "truera",
+            "repo": "trulens",
+            "stars": 3508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KB Arena",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-06T16:40:27Z",
+            "owner": "xmpuspus",
+            "repo": "kb-arena",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Verbatim Citation Gate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T18:42:01Z",
+            "owner": "tonydzi",
+            "repo": "verbatim-citation-gate",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Evaluation & Benchmarking"
+    },
+    {
+      "description": "Using one LLM to evaluate the outputs of another has become a standard practice in production RAG systems. This approach scales better than human evaluation and provides consistent, automated quality assessment.\nCore Frameworks:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-25T03:58:37Z",
+            "owner": "prometheus-eval",
+            "repo": "prometheus-eval",
+            "stars": 1105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoEvals",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T20:54:43Z",
+            "owner": "braintrustdata",
+            "repo": "autoevals",
+            "stars": 998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARES (Automated RAG Evaluation System)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-28T11:25:50Z",
+            "owner": "stanford-futuredata",
+            "repo": "ARES",
+            "stars": 732
+          }
+        }
+      ],
+      "title": "LLM-as-Judge Evaluation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Langfuse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T03:23:15Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 33071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opik",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T00:50:49Z",
+            "owner": "comet-ml",
+            "repo": "opik",
+            "stars": 21361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arize Phoenix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T20:46:38Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenLIT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T17:48:08Z",
+            "owner": "openlit",
+            "repo": "openlit",
+            "stars": 2687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Future AGI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T02:36:28Z",
+            "owner": "future-agi",
+            "repo": "future-agi",
+            "stars": 1673
+          }
+        }
+      ],
+      "title": "Observability & Tracing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ollama",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T22:38:02Z",
+            "owner": "ollama",
+            "repo": "ollama",
+            "stars": 178495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vLLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:29:54Z",
+            "owner": "vllm-project",
+            "repo": "vllm",
+            "stars": 89000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ray Serve",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T01:46:34Z",
+            "owner": "ray-project",
+            "repo": "ray",
+            "stars": 43515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Triton Inference Server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T01:24:04Z",
+            "owner": "triton-inference-server",
+            "repo": "server",
+            "stars": 10917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyPilot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:02:37Z",
+            "owner": "skypilot-org",
+            "repo": "skypilot",
+            "stars": 10491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BentoML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:00:21Z",
+            "owner": "bentoml",
+            "repo": "BentoML",
+            "stars": 8787
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KServe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:36:47Z",
+            "owner": "kserve",
+            "repo": "kserve",
+            "stars": 5790
+          }
+        }
+      ],
+      "title": "Deployment & Serving"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GPTCache",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-11T09:04:36Z",
+            "owner": "zilliztech",
+            "repo": "GPTCache",
+            "stars": 8132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedisVL Semantic Cache",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:32:55Z",
+            "owner": "redis",
+            "repo": "redis-vl-python",
+            "stars": 423
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PrivateGPT",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:08:35Z",
+            "owner": "zylon-ai",
+            "repo": "private-gpt",
+            "stars": 57434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presidio",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:20:50Z",
+            "owner": "data-privacy-stack",
+            "repo": "presidio",
+            "stars": 10472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeMo Guardrails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T22:14:20Z",
+            "owner": "NVIDIA-NeMo",
+            "repo": "Guardrails",
+            "stars": 6940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM Guard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-08T23:58:40Z",
+            "owner": "protectai",
+            "repo": "llm-guard",
+            "stars": 3202
+          }
+        }
+      ],
+      "title": "Security & Compliance"
+    },
+    {
+      "description": "An LLM gateway sits between your application and one or more LLM providers. It centralizes authentication, enforces rate limits, aggregates cost metrics, enables provider failover, and often layers caching on top — without requiring per-provider changes to application code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LiteLLM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T03:28:04Z",
+            "owner": "BerriAI",
+            "repo": "litellm",
+            "stars": 56288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portkey AI Gateway",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T13:54:51Z",
+            "owner": "Portkey-AI",
+            "repo": "gateway",
+            "stars": 12709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helicone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T01:10:06Z",
+            "owner": "Helicone",
+            "repo": "helicone",
+            "stars": 6064
+          }
+        }
+      ],
+      "title": "LLM Gateways & Routing"
+    },
+    {
+      "description": "The resources below complement this list with runnable code — Jupyter notebooks and annotated examples that walk through the techniques described above end to end. They are the fastest path from reading about a pattern to having it running in your own environment.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NirDiamant/RAG_Techniques",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T13:58:34Z",
+            "owner": "NirDiamant",
+            "repo": "RAG_Techniques",
+            "stars": 29059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lancedb/vectordb-recipes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-24T11:29:16Z",
+            "owner": "lancedb",
+            "repo": "vectordb-recipes",
+            "stars": 973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NirDiamant/Agent_Memory_Techniques",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T20:07:49Z",
+            "owner": "NirDiamant",
+            "repo": "Agent_Memory_Techniques",
+            "stars": 869
+          }
+        }
+      ],
+      "title": "Tutorials & Hands-on Code"
+    },
+    {
+      "description": "Deepen your knowledge with curated lists of books and blogs from industry experts.",
+      "items": [],
+      "title": "Recommended Resources"
+    },
+    {
+      "description": "To keep this list high-quality, we only include resources that are:\n1. Production-Ready: Battle-tested in real-world environments.\n2. Actively Maintained: Regular updates within the last 3-6 months.\n3. Documented: Strong API references and clear use cases.\n4. Evidence-backed (for numeric claims): Any performance or quality claim (latency, recall, cost reduction, etc.) must carry a source URL, date, and evidence tag (, , or ). Unsourced numbers belong in benchmarks.md § Gaps, not in the list itself.",
+      "items": [],
+      "title": "Selection Criteria"
+    },
+    {
+      "description": "Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to submit a new resource.\nWondering why a popular tool is not listed? See the FAQ. Recent changes are tracked in the Changelog, and planned work lives in the Roadmap.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This repository is licensed under CC0 1.0 Universal.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:30:04.774Z",
+    "original_repository": "Yigtwxx/awesome-rag-production",
+    "original_repository_sha": "f0ef487550130b35d87ef7827758119af5804a75",
+    "enhanced_repository": "enhansome/enhansome-rag-production",
+    "enhanced_repository_description": null,
+    "title": "Awesome RAG Production with stars"
+  }
+}
