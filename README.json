@@ -1,182 +1,185 @@
 {
   "items": [
     {
-      "description": "Stop guessing. Here are three battle-tested stacks for different stages of maturity.",
-      "items": [],
-      "title": "Reference Architectures"
-    },
-    {
-      "description": "Learn from production RAG implementations at scale. These companies have battle-tested their systems with millions of users.",
-      "items": [],
-      "title": "Real-World Case Studies"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LangChain",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552661142,
+                "language": "Python",
+                "last_commit": "2026-08-19T10:38:36Z",
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 144556
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RAGFlow",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730534580,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:06:31Z",
+                "owner": "infiniflow",
+                "repo": "ragflow",
+                "stars": 88821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pathway",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 571186647,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:32:12Z",
+                "owner": "pathwaycom",
+                "repo": "pathway",
+                "stars": 62425
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LlamaIndex",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560704231,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:37:12Z",
+                "owner": "run-llama",
+                "repo": "llama_index",
+                "stars": 51741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LangGraph",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 676672661,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:23:46Z",
+                "owner": "langchain-ai",
+                "repo": "langgraph",
+                "stars": 40008
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DSPy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 587050620,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:22:39Z",
+                "owner": "stanfordnlp",
+                "repo": "dspy",
+                "stars": 37413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Haystack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221654678,
+                "language": "Python",
+                "last_commit": "2026-08-19T11:41:56Z",
+                "owner": "deepset-ai",
+                "repo": "haystack",
+                "stars": 26253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R2R",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756142546,
+                "language": "Python",
+                "last_commit": "2025-11-07T01:02:44Z",
+                "owner": "SciPhi-AI",
+                "repo": "R2R",
+                "stars": 7973
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Verba",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 672002598,
+                "language": "Python",
+                "last_commit": "2026-06-08T09:25:18Z",
+                "owner": "weaviate",
+                "repo": "Verba",
+                "stars": 7711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cognita",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 671064065,
+                "language": "Python",
+                "last_commit": "2026-03-13T15:04:36Z",
+                "owner": "truefoundry",
+                "repo": "cognita",
+                "stars": 4415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Agentset",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 945763259,
+                "language": "TypeScript",
+                "last_commit": "2026-07-16T13:11:34Z",
+                "owner": "agentset-ai",
+                "repo": "agentset",
+                "stars": 2063
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        }
+      ],
       "title": "Frameworks & Orchestration"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LangChain",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:14:32Z",
-            "owner": "langchain-ai",
-            "repo": "langchain",
-            "stars": 144505
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RAGFlow",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-19T01:52:26Z",
-            "owner": "infiniflow",
-            "repo": "ragflow",
-            "stars": 88775
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pathway",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T22:55:14Z",
-            "owner": "pathwaycom",
-            "repo": "pathway",
-            "stars": 62427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LlamaIndex",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:37:12Z",
-            "owner": "run-llama",
-            "repo": "llama_index",
-            "stars": 51736
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LangGraph",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:23:46Z",
-            "owner": "langchain-ai",
-            "repo": "langgraph",
-            "stars": 39975
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DSPy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T02:13:20Z",
-            "owner": "stanfordnlp",
-            "repo": "dspy",
-            "stars": 37395
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Haystack",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:41:03Z",
-            "owner": "deepset-ai",
-            "repo": "haystack",
-            "stars": 26249
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "R2R",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-07T01:02:44Z",
-            "owner": "SciPhi-AI",
-            "repo": "R2R",
-            "stars": 7973
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Verba",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-06-08T09:25:18Z",
-            "owner": "weaviate",
-            "repo": "Verba",
-            "stars": 7711
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cognita",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-03-13T15:04:36Z",
-            "owner": "truefoundry",
-            "repo": "cognita",
-            "stars": 4415
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Agentset",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-16T13:11:34Z",
-            "owner": "agentset-ai",
-            "repo": "agentset",
-            "stars": 2063
-          }
-        }
-      ],
-      "title": "Frameworks"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -185,11 +188,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 787076358,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T23:53:14Z",
+            "last_commit": "2026-08-19T12:05:31Z",
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 169186
+            "stars": 169420
           }
         },
         {
@@ -199,11 +203,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262296122,
             "language": "Python",
             "last_commit": "2026-07-22T11:59:34Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 87883
+            "stars": 87913
           }
         },
         {
@@ -213,11 +218,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798201435,
             "language": "Python",
-            "last_commit": "2026-08-18T13:48:30Z",
+            "last_commit": "2026-08-19T12:23:26Z",
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 78626
+            "stars": 78672
           }
         },
         {
@@ -227,11 +233,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-18T16:22:05Z",
+            "last_commit": "2026-08-19T12:49:57Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65099
+            "stars": 65152
           }
         },
         {
@@ -241,11 +248,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 712111618,
             "language": "Python",
             "last_commit": "2026-08-07T06:33:06Z",
             "owner": "datalab-to",
             "repo": "marker",
-            "stars": 38843
+            "stars": 38855
           }
         },
         {
@@ -255,11 +263,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 982587624,
             "language": "Java",
             "last_commit": "2026-08-18T15:06:46Z",
             "owner": "opendataloader-project",
             "repo": "opendataloader-pdf",
-            "stars": 28550
+            "stars": 28567
           }
         },
         {
@@ -269,11 +278,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541798154,
             "language": "HTML",
             "last_commit": "2026-08-18T23:40:27Z",
             "owner": "Unstructured-IO",
             "repo": "unstructured",
-            "stars": 15325
+            "stars": 15326
           }
         },
         {
@@ -283,11 +293,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 810449821,
             "language": "Python",
             "last_commit": "2025-12-12T15:47:46Z",
             "owner": "adithya-s-k",
             "repo": "omniparse",
-            "stars": 7811
+            "stars": 7813
           }
         },
         {
@@ -297,6 +308,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 751000531,
             "language": "TypeScript",
             "last_commit": "2026-05-18T19:09:10Z",
             "owner": "run-llama",
@@ -311,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1272043772,
             "language": "Python",
             "last_commit": "2026-08-14T00:15:56Z",
             "owner": "KingsleyOWO",
@@ -322,12 +335,155 @@
       "title": "Data Ingestion & Parsing"
     },
     {
-      "description": "Bottom line: There is no single \"best\" vector DB — match it to your constraints. Use pgvector if you already run PostgreSQL, Qdrant for strong metadata filtering and a generous free tier under ~50M vectors, Milvus to scale toward billions, Pinecone for zero-ops serverless, and Chroma for local prototyping.\nDeep dive: Vector Database Comparison — a decision framework by scale, deployment, filtering, hybrid search, and cost.",
-      "items": [],
-      "title": "Vector Databases"
+      "description": "Generic MTEB rankings break down on domain-specific corpora (legal, medical, code, financial). Fine-tuning a base embedding model on your own labeled pairs consistently outperforms off-the-shelf models for in-domain retrieval — without the cost of training from scratch. See also: rag-pitfalls.md — Embedding Model Selection.\nWhen to fine-tune:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sentence-transformers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198616978,
+            "language": "Python",
+            "last_commit": "2026-08-18T15:37:55Z",
+            "owner": "huggingface",
+            "repo": "sentence-transformers",
+            "stars": 19019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlagEmbedding",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673596675,
+            "language": "Python",
+            "last_commit": "2026-08-14T06:19:17Z",
+            "owner": "FlagOpen",
+            "repo": "FlagEmbedding",
+            "stars": 12060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SetFit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 508972059,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-26T10:31:59Z",
+            "owner": "huggingface",
+            "repo": "setfit",
+            "stars": 2780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tevatron",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 404550703,
+            "language": "Python",
+            "last_commit": "2026-07-18T19:40:38Z",
+            "owner": "texttron",
+            "repo": "tevatron",
+            "stars": 748
+          }
+        }
+      ],
+      "title": "Embedding Fine-tuning"
     },
     {
-      "description": "How you split documents into chunks is one of the most underrated decisions in a RAG pipeline. The wrong chunking strategy silently degrades retrieval quality regardless of how good your embedding model is. See rag-pitfalls.md — Fixed Chunk Size Everywhere for the failure modes.\nDeep dive: Chunking Strategies — strategy catalog, chunk size and overlap, tooling, and how to evaluate chunking on your corpus.\nChunking strategies at a glance:",
+      "description": "Production RAG indices drift over time: embedding models are upgraded, schema changes reshape chunk boundaries, and knowledge bases grow. Without versioning, re-indexing becomes a high-risk, manual operation. These tools bring reproducible, auditable version control to datasets and vector indices — enabling safe rollbacks when a model change degrades retrieval quality.\nWhen you need index versioning:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DVC",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83878269,
+            "language": "Python",
+            "last_commit": "2026-08-19T02:03:16Z",
+            "owner": "treeverse",
+            "repo": "dvc",
+            "stars": 15828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pachyderm",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A data-versioned pipeline orchestration platform. Every pipeline run is tied to an immutable data commit, giving full lineage from source document to vector index to LLM response — useful in compliance-heavy domains. Listed for reference: upstream has had no commits since early 2025 following the HPE acquisition. For new pipelines prefer lakeFS",
+              "description": "or DVC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208038454,
+                "language": "Go",
+                "last_commit": "2026-08-17T08:38:20Z",
+                "owner": "treeverse",
+                "repo": "lakeFS",
+                "stars": 5492
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 23653453,
+            "language": "Go",
+            "last_commit": "2025-02-03T22:27:18Z",
+            "owner": "pachyderm",
+            "repo": "pachyderm",
+            "stars": 6305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lakeFS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208038454,
+            "language": "Go",
+            "last_commit": "2026-08-17T08:38:20Z",
+            "owner": "treeverse",
+            "repo": "lakeFS",
+            "stars": 5492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oxen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520273044,
+            "language": "Rust",
+            "last_commit": "2026-08-19T07:24:31Z",
+            "owner": "Oxen-AI",
+            "repo": "Oxen",
+            "stars": 1179
+          }
+        }
+      ],
+      "title": "Data & Index Versioning"
+    },
+    {
+      "description": "How you split documents into chunks is one of the most underrated decisions in a RAG pipeline. The wrong chunking strategy silently degrades retrieval quality regardless of how good your embedding model is. See rag-pitfalls.md — Fixed Chunk Size Everywhere for the failure modes.\nDeep dive: Chunking Strategies — strategy catalog, chunk size and overlap, tooling, and how to evaluate chunking on your corpus.\nChunking strategies at a glance:\nTrade-offs:",
       "items": [
         {
           "node_type": "item",
@@ -336,11 +492,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541798154,
             "language": "HTML",
             "last_commit": "2026-08-18T23:40:27Z",
             "owner": "Unstructured-IO",
             "repo": "unstructured",
-            "stars": 15325
+            "stars": 15326
           }
         },
         {
@@ -350,11 +507,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 956908445,
             "language": "Python",
             "last_commit": "2026-08-17T18:29:19Z",
             "owner": "feyninc",
             "repo": "chonkie",
-            "stars": 4687
+            "stars": 4689
           }
         },
         {
@@ -364,6 +522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 714508356,
             "language": "Python",
             "last_commit": "2026-06-13T00:44:46Z",
             "owner": "isaacus-dev",
@@ -375,7 +534,7 @@
       "title": "Chunking & Document Processing"
     },
     {
-      "description": "Hybrid Search: A retrieval strategy that linearly combines Dense Vector Search (semantic understanding) with Sparse Keyword Search (BM25 for exact term matching). This mitigates the \"lost in the middle\" phenomenon and significantly improves zero-shot retrieval performance.",
+      "description": "Hybrid Search: A retrieval strategy that linearly combines Dense Vector Search (semantic understanding) with Sparse Keyword Search (BM25 for exact term matching). This mitigates the \"lost in the middle\" phenomenon and significantly improves zero-shot retrieval performance.\nGraphRAG:\nAn advanced retrieval method that constructs a knowledge graph from documents. It traverses relationships between entities to answer \"global\" queries (e.g., \"What are the main themes?\") that standard vector search struggles to address.",
       "items": [
         {
           "node_type": "item",
@@ -384,11 +543,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 958531089,
             "language": "Python",
-            "last_commit": "2026-08-18T23:57:34Z",
+            "last_commit": "2026-08-19T08:45:58Z",
             "owner": "VectifyAI",
             "repo": "PageIndex",
-            "stars": 35241
+            "stars": 35245
           }
         },
         {
@@ -398,6 +558,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 737043169,
             "language": "Python",
             "last_commit": "2025-05-17T12:45:38Z",
             "owner": "AnswerDotAI",
@@ -412,6 +573,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 727268148,
             "language": "Python",
             "last_commit": "2026-07-11T08:06:27Z",
             "owner": "PrithivirajDamodaran",
@@ -426,235 +588,323 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1235093115,
             "language": "PLpgSQL",
             "last_commit": "2026-05-14T15:20:32Z",
             "owner": "Intelligent-Internet",
             "repo": "psql_bm25s",
             "stars": 146
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft GraphRAG",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 778431525,
+            "language": "Python",
+            "last_commit": "2026-08-18T21:00:20Z",
+            "owner": "microsoft",
+            "repo": "graphrag",
+            "stars": 35575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neo4j LLM Knowledge Graph Builder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 741989385,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-10T16:11:54Z",
+            "owner": "neo4j-labs",
+            "repo": "llm-graph-builder",
+            "stars": 5177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nano-graphrag",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 833512367,
+            "language": "Python",
+            "last_commit": "2026-01-27T07:50:55Z",
+            "owner": "gusye1234",
+            "repo": "nano-graphrag",
+            "stars": 3968
+          }
         }
       ],
       "title": "Retrieval & Reranking"
     },
     {
-      "description": "",
+      "description": "Agentic RAG represents the evolution of traditional RAG systems into autonomous, decision-making entities. Instead of a simple \"retrieve-then-generate\" pipeline, agentic systems can plan multi-step workflows, use tools, and dynamically adjust their retrieval strategy based on intermediate results.\nCore Capabilities:",
       "items": [
         {
-          "node_type": "item",
-          "title": "RAGFlow",
-          "description": "see Frameworks & Orchestration for the full entry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-19T01:52:26Z",
-            "owner": "infiniflow",
-            "repo": "ragflow",
-            "stars": 88775
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoGen",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-15T11:59:09Z",
-            "owner": "microsoft",
-            "repo": "autogen",
-            "stars": 60502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CrewAI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T02:29:20Z",
-            "owner": "crewAIInc",
-            "repo": "crewAI",
-            "stars": 57278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LangGraph",
-          "description": "see Frameworks & Orchestration for the full entry.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T00:23:46Z",
-            "owner": "langchain-ai",
-            "repo": "langgraph",
-            "stars": 39975
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RAGFlow",
+              "description": "see Frameworks & Orchestration for the full entry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 730534580,
+                "language": "Go",
+                "last_commit": "2026-08-19T12:06:31Z",
+                "owner": "infiniflow",
+                "repo": "ragflow",
+                "stars": 88821
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoGen",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 680120071,
+                "language": "Python",
+                "last_commit": "2026-04-15T11:59:09Z",
+                "owner": "microsoft",
+                "repo": "autogen",
+                "stars": 60512
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CrewAI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710601088,
+                "language": "Python",
+                "last_commit": "2026-08-19T07:20:53Z",
+                "owner": "crewAIInc",
+                "repo": "crewAI",
+                "stars": 57308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LangGraph",
+              "description": "see Frameworks & Orchestration for the full entry.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 676672661,
+                "language": "Python",
+                "last_commit": "2026-08-19T00:23:46Z",
+                "owner": "langchain-ai",
+                "repo": "langgraph",
+                "stars": 40008
+              }
+            }
+          ],
+          "description": "When to Use Agentic RAG:\nTrade-offs:",
+          "node_type": "group",
+          "title": "Frameworks & Tools"
         }
       ],
-      "title": "Frameworks & Tools"
+      "title": "Agentic RAG"
     },
     {
-      "description": "",
+      "description": "Agentic RAG systems are only as useful as their memory. Without a persistent memory layer, agents lose context between sessions and cannot learn from past interactions — forcing users to repeat themselves and preventing the system from adapting to individual preferences or organizational knowledge. An agent memory store sits alongside the vector retrieval pipeline, handling what the agent knows about the user and the world across turns, distinct from the RAG knowledge base itself.\nCore Capabilities:",
       "items": [
         {
-          "node_type": "item",
-          "title": "Mem0",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T15:51:45Z",
-            "owner": "mem0ai",
-            "repo": "mem0",
-            "stars": 63553
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zep / Graphiti",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:24:04Z",
-            "owner": "getzep",
-            "repo": "graphiti",
-            "stars": 30069
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Letta",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-16T03:56:11Z",
-            "owner": "letta-ai",
-            "repo": "letta",
-            "stars": 24296
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LangMem",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-11T00:18:37Z",
-            "owner": "langchain-ai",
-            "repo": "langmem",
-            "stars": 1617
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vestige",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-12T20:35:40Z",
-            "owner": "samvallad33",
-            "repo": "vestige",
-            "stars": 607
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mem0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656099147,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:51:45Z",
+                "owner": "mem0ai",
+                "repo": "mem0",
+                "stars": 63592
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zep / Graphiti",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 840056306,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:24:04Z",
+                "owner": "getzep",
+                "repo": "graphiti",
+                "stars": 30086
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Letta",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703411624,
+                "language": null,
+                "last_commit": "2026-08-16T03:56:11Z",
+                "owner": "letta-ai",
+                "repo": "letta",
+                "stars": 24299
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LangMem",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 920242883,
+                "language": "Python",
+                "last_commit": "2026-08-11T00:18:37Z",
+                "owner": "langchain-ai",
+                "repo": "langmem",
+                "stars": 1618
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vestige",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1141662059,
+                "language": "Rust",
+                "last_commit": "2026-08-12T20:35:40Z",
+                "owner": "samvallad33",
+                "repo": "vestige",
+                "stars": 607
+              }
+            }
+          ],
+          "description": "When to Add a Memory Layer:\nTrade-offs:",
+          "node_type": "group",
+          "title": "Frameworks & Tools"
         }
       ],
-      "title": "Frameworks & Tools"
+      "title": "Agent Memory & Stateful Context"
     },
     {
-      "description": "",
+      "description": "Production RAG increasingly operates on documents that combine text, images, tables, and charts — financial reports, technical manuals, and product catalogs that defeat pure-text chunking. Multimodal RAG extends classical retrieval by embedding and querying across modalities in a shared vector space, or by treating document pages as images (ColPali-style), bypassing the OCR → chunk → embed pipeline and preserving layout information that text extraction destroys.\nCore Capabilities:",
       "items": [
         {
-          "node_type": "item",
-          "title": "Marqo",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-08T08:50:53Z",
-            "owner": "marqo-ai",
-            "repo": "marqo",
-            "stars": 5022
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ColPali",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T23:53:31Z",
-            "owner": "illuin-tech",
-            "repo": "colpali",
-            "stars": 2773
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Byaldi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-28T20:47:40Z",
-            "owner": "AnswerDotAI",
-            "repo": "byaldi",
-            "stars": 852
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Marqo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 520096046,
+                "language": "Python",
+                "last_commit": "2026-08-08T08:50:53Z",
+                "owner": "marqo-ai",
+                "repo": "marqo",
+                "stars": 5022
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ColPali",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 817877504,
+                "language": "Python",
+                "last_commit": "2026-08-03T23:53:31Z",
+                "owner": "illuin-tech",
+                "repo": "colpali",
+                "stars": 2780
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Byaldi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 852492838,
+                "language": "Python",
+                "last_commit": "2025-01-28T20:47:40Z",
+                "owner": "AnswerDotAI",
+                "repo": "byaldi",
+                "stars": 852
+              }
+            }
+          ],
+          "description": "When to Use Multimodal RAG:\nTrade-offs:",
+          "node_type": "group",
+          "title": "Frameworks & Tools"
         }
       ],
-      "title": "Frameworks & Tools"
+      "title": "Multimodal RAG"
     },
     {
-      "description": "",
+      "description": "Classical RAG retrieves unstructured text chunks. Structured RAG extends this to tables, databases, and business data stores — where the \"retrieval\" step is a generated SQL or analytics query, not a vector similarity search. This approach is critical for enterprise applications where the source of truth lives in relational databases, data warehouses, or spreadsheets rather than document collections.\nCore Capabilities:",
       "items": [
         {
-          "node_type": "item",
-          "title": "Vanna",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-02-02T14:14:20Z",
-            "owner": "vanna-ai",
-            "repo": "vanna",
-            "stars": 23827
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WrenAI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T10:52:16Z",
-            "owner": "Canner",
-            "repo": "WrenAI",
-            "stars": 17305
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vanna",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 640317662,
+                "language": "Python",
+                "last_commit": "2026-02-02T14:14:20Z",
+                "owner": "vanna-ai",
+                "repo": "vanna",
+                "stars": 23826
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WrenAI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771350543,
+                "language": "Python",
+                "last_commit": "2026-08-19T03:02:53Z",
+                "owner": "Canner",
+                "repo": "WrenAI",
+                "stars": 17318
+              }
+            }
+          ],
+          "description": "When to Use Structured RAG:\nTrade-offs:",
+          "node_type": "group",
+          "title": "Frameworks & Tools"
         }
       ],
-      "title": "Frameworks & Tools"
+      "title": "Structured & SQL RAG"
     },
     {
       "description": "Reliable RAG requires measuring the RAG Triad: Context Relevance, Groundedness, and Answer Relevance.",
@@ -666,11 +916,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676829188,
             "language": "Python",
             "last_commit": "2026-08-17T11:05:50Z",
             "owner": "confident-ai",
             "repo": "deepeval",
-            "stars": 17681
+            "stars": 17699
           }
         },
         {
@@ -680,11 +931,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 637924634,
             "language": "Python",
             "last_commit": "2026-02-24T07:47:19Z",
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15365
+            "stars": 15376
           }
         },
         {
@@ -694,6 +946,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309504885,
             "language": "Python",
             "last_commit": "2026-08-14T16:08:33Z",
             "owner": "truera",
@@ -708,6 +961,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1182030516,
             "language": "HTML",
             "last_commit": "2026-08-06T16:40:27Z",
             "owner": "xmpuspus",
@@ -722,66 +976,71 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1310736266,
             "language": "Python",
             "last_commit": "2026-08-16T15:00:07Z",
             "owner": "tonydzi",
             "repo": "verbatim-citation-gate",
             "stars": 3
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Prometheus",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 788574052,
+                "language": "Python",
+                "last_commit": "2025-04-25T03:58:37Z",
+                "owner": "prometheus-eval",
+                "repo": "prometheus-eval",
+                "stars": 1107
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AutoEvals",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 664963846,
+                "language": "Python",
+                "last_commit": "2026-07-29T20:54:43Z",
+                "owner": "braintrustdata",
+                "repo": "autoevals",
+                "stars": 1004
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARES (Automated RAG Evaluation System)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 697100198,
+                "language": "Python",
+                "last_commit": "2025-03-28T11:25:50Z",
+                "owner": "stanford-futuredata",
+                "repo": "ARES",
+                "stars": 732
+              }
+            }
+          ],
+          "description": "Using one LLM to evaluate the outputs of another has become a standard practice in production RAG systems. This approach scales better than human evaluation and provides consistent, automated quality assessment.\nCore Frameworks:\nKey Metrics:\nBest Practices:",
+          "node_type": "group",
+          "title": "LLM-as-Judge Evaluation"
         }
       ],
       "title": "Evaluation & Benchmarking"
     },
     {
-      "description": "Using one LLM to evaluate the outputs of another has become a standard practice in production RAG systems. This approach scales better than human evaluation and provides consistent, automated quality assessment.\nCore Frameworks:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Prometheus",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-25T03:58:37Z",
-            "owner": "prometheus-eval",
-            "repo": "prometheus-eval",
-            "stars": 1107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AutoEvals",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-29T20:54:43Z",
-            "owner": "braintrustdata",
-            "repo": "autoevals",
-            "stars": 1004
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ARES (Automated RAG Evaluation System)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-28T11:25:50Z",
-            "owner": "stanford-futuredata",
-            "repo": "ARES",
-            "stars": 732
-          }
-        }
-      ],
-      "title": "LLM-as-Judge Evaluation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -790,11 +1049,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:52:28Z",
+            "last_commit": "2026-08-19T12:48:54Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33349
+            "stars": 33381
           }
         },
         {
@@ -804,11 +1064,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-19T00:49:37Z",
+            "last_commit": "2026-08-19T12:49:43Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21456
+            "stars": 21472
           }
         },
         {
@@ -818,11 +1079,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-18T23:49:12Z",
+            "last_commit": "2026-08-19T10:58:26Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11099
+            "stars": 11109
           }
         },
         {
@@ -832,11 +1094,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 747319327,
             "language": "TypeScript",
             "last_commit": "2026-08-17T10:35:57Z",
             "owner": "openlit",
             "repo": "openlit",
-            "stars": 2698
+            "stars": 2700
           }
         },
         {
@@ -846,18 +1109,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-18T22:36:40Z",
+            "last_commit": "2026-08-19T12:49:33Z",
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1712
+            "stars": 1713
           }
         }
       ],
       "title": "Observability & Tracing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -866,11 +1130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658928958,
             "language": "Go",
-            "last_commit": "2026-08-18T22:23:13Z",
+            "last_commit": "2026-08-19T03:51:40Z",
             "owner": "ollama",
             "repo": "ollama",
-            "stars": 178904
+            "stars": 178950
           }
         },
         {
@@ -880,11 +1145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 599547518,
             "language": "Python",
-            "last_commit": "2026-08-19T02:28:52Z",
+            "last_commit": "2026-08-19T12:48:45Z",
             "owner": "vllm-project",
             "repo": "vllm",
-            "stars": 89385
+            "stars": 89436
           }
         },
         {
@@ -894,11 +1160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-19T02:13:31Z",
+            "last_commit": "2026-08-19T12:14:07Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43548
+            "stars": 43556
           }
         },
         {
@@ -908,11 +1175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151636194,
             "language": "Python",
             "last_commit": "2026-08-18T16:18:48Z",
             "owner": "triton-inference-server",
             "repo": "server",
-            "stars": 10925
+            "stars": 10926
           }
         },
         {
@@ -922,8 +1190,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395140743,
             "language": "Python",
-            "last_commit": "2026-08-19T02:12:27Z",
+            "last_commit": "2026-08-19T12:32:00Z",
             "owner": "skypilot-org",
             "repo": "skypilot",
             "stars": 10509
@@ -936,11 +1205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178976529,
             "language": "Python",
             "last_commit": "2026-08-03T17:00:21Z",
             "owner": "bentoml",
             "repo": "BentoML",
-            "stars": 8791
+            "stars": 8793
           }
         },
         {
@@ -950,52 +1220,62 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178075572,
             "language": "Go",
             "last_commit": "2026-08-18T10:06:44Z",
             "owner": "kserve",
             "repo": "kserve",
-            "stars": 5801
+            "stars": 5804
           }
         }
       ],
       "title": "Deployment & Serving"
     },
     {
-      "description": "",
+      "description": "Caching is one of the highest-leverage optimizations in production RAG: it directly reduces cost, cuts p99 latency, and absorbs traffic spikes without scaling infrastructure. Four distinct cache layers exist, each targeting a different bottleneck — deploying them in combination yields compounding returns.\nCache Layers:",
       "items": [
         {
-          "node_type": "item",
-          "title": "GPTCache",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-11T09:04:36Z",
-            "owner": "zilliztech",
-            "repo": "GPTCache",
-            "stars": 8161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RedisVL Semantic Cache",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:42:38Z",
-            "owner": "redis",
-            "repo": "redis-vl-python",
-            "stars": 423
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GPTCache",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618276831,
+                "language": "Python",
+                "last_commit": "2025-07-11T09:04:36Z",
+                "owner": "zilliztech",
+                "repo": "GPTCache",
+                "stars": 8162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RedisVL Semantic Cache",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561914940,
+                "language": "Python",
+                "last_commit": "2026-08-18T19:42:38Z",
+                "owner": "redis",
+                "repo": "redis-vl-python",
+                "stars": 423
+              }
+            }
+          ],
+          "description": "When to Cache What:\nTrade-offs:",
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
-      "title": "Tools"
+      "title": "Caching & Performance"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1004,11 +1284,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635240594,
             "language": "Python",
-            "last_commit": "2026-08-18T15:18:34Z",
+            "last_commit": "2026-08-19T09:39:15Z",
             "owner": "zylon-ai",
             "repo": "private-gpt",
-            "stars": 57445
+            "stars": 57444
           }
         },
         {
@@ -1018,11 +1299,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132129752,
             "language": "Python",
             "last_commit": "2026-08-11T15:20:50Z",
             "owner": "data-privacy-stack",
             "repo": "presidio",
-            "stars": 10537
+            "stars": 10539
           }
         },
         {
@@ -1032,11 +1314,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-19T00:50:46Z",
+            "last_commit": "2026-08-19T12:21:24Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 6970
+            "stars": 6973
           }
         },
         {
@@ -1046,6 +1329,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 671629770,
             "language": "Python",
             "last_commit": "2026-07-08T23:58:40Z",
             "owner": "protectai",
@@ -1057,7 +1341,7 @@
       "title": "Security & Compliance"
     },
     {
-      "description": "An LLM gateway sits between your application and one or more LLM providers. It centralizes authentication, enforces rate limits, aggregates cost metrics, enables provider failover, and often layers caching on top — without requiring per-provider changes to application code.",
+      "description": "An LLM gateway sits between your application and one or more LLM providers. It centralizes authentication, enforces rate limits, aggregates cost metrics, enables provider failover, and often layers caching on top — without requiring per-provider changes to application code.\nWhen to Use an LLM Gateway:\nTrade-offs:",
       "items": [
         {
           "node_type": "item",
@@ -1066,11 +1350,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-19T02:29:00Z",
+            "last_commit": "2026-08-19T09:52:35Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 56689
+            "stars": 56737
           }
         },
         {
@@ -1080,11 +1365,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 682080300,
             "language": "TypeScript",
             "last_commit": "2026-05-25T13:54:51Z",
             "owner": "Portkey-AI",
             "repo": "gateway",
-            "stars": 12762
+            "stars": 12765
           }
         },
         {
@@ -1094,15 +1380,52 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595832198,
             "language": "TypeScript",
             "last_commit": "2026-08-16T20:26:29Z",
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6082
+            "stars": 6083
           }
         }
       ],
       "title": "LLM Gateways & Routing"
+    },
+    {
+      "description": "Inference cost is often the largest operational expense in a production RAG system, yet it is frequently treated as an afterthought. FinOps for RAG means quantifying token spend per request, attributing costs to features or user segments, and choosing the right optimization levers (caching, model routing, chunking strategy) before — not after — cost becomes a budget crisis.\nKey cost levers:\nUnit economics checklist:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenMeter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650344440,
+            "language": "Go",
+            "last_commit": "2026-08-19T12:48:48Z",
+            "owner": "openmeterio",
+            "repo": "openmeter",
+            "stars": 2213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tokencost",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 726692169,
+            "language": "Python",
+            "last_commit": "2025-09-05T08:10:10Z",
+            "owner": "AgentOps-AI",
+            "repo": "tokencost",
+            "stars": 2003
+          }
+        }
+      ],
+      "title": "FinOps & Cost Management"
     },
     {
       "description": "The resources below complement this list with runnable code — Jupyter notebooks and annotated examples that walk through the techniques described above end to end. They are the fastest path from reading about a pattern to having it running in your own environment.",
@@ -1114,11 +1437,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 828268839,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T00:52:05Z",
             "owner": "NirDiamant",
             "repo": "RAG_Techniques",
-            "stars": 29102
+            "stars": 29113
           }
         },
         {
@@ -1128,6 +1452,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 658219396,
             "language": "Jupyter Notebook",
             "last_commit": "2026-04-24T11:29:16Z",
             "owner": "lancedb",
@@ -1142,40 +1467,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230280405,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-15T00:52:07Z",
             "owner": "NirDiamant",
             "repo": "Agent_Memory_Techniques",
-            "stars": 905
+            "stars": 907
           }
         }
       ],
       "title": "Tutorials & Hands-on Code"
-    },
-    {
-      "description": "Deepen your knowledge with curated lists of books and blogs from industry experts.",
-      "items": [],
-      "title": "Recommended Resources"
-    },
-    {
-      "description": "To keep this list high-quality, we only include resources that are:\n1. Production-Ready: Battle-tested in real-world environments.\n2. Actively Maintained: Regular updates within the last 3-6 months.\n3. Documented: Strong API references and clear use cases.\n4. Evidence-backed (for numeric claims): Any performance or quality claim (latency, recall, cost reduction, etc.) must carry a source URL, date, and evidence tag (, , or ). Unsourced numbers belong in benchmarks.md § Gaps, not in the list itself.",
-      "items": [],
-      "title": "Selection Criteria"
-    },
-    {
-      "description": "Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to submit a new resource.\nWondering why a popular tool is not listed? See the FAQ. Recent changes are tracked in the Changelog, and planned work lives in the Roadmap.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "This repository is licensed under CC0 1.0 Universal.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:31:23.641Z",
+    "last_updated": "2026-08-19T12:50:07.476Z",
     "original_repository": "Yigtwxx/awesome-rag-production",
+    "original_repository_id": 1119405225,
     "original_repository_sha": "f0ef487550130b35d87ef7827758119af5804a75",
     "enhanced_repository": "enhansome/enhansome-rag-production",
     "enhanced_repository_description": null,
