@@ -7,6 +7,73 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LlamaIndex",
+              "description": "Data Processing & Indexing Full High Data-Flow Pipelines Built-in + 3rd Party Low–Medium Low —",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560704231,
+                "language": "Python",
+                "last_commit": "2026-08-20T15:46:41Z",
+                "owner": "run-llama",
+                "repo": "llama_index",
+                "stars": 51840
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LangChain",
+              "description": "Rapid Prototyping Full Medium–High Sequential Chains Excellent (LangSmith) Medium Medium —",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552661142,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:31:31Z",
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 144894
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LangGraph",
+              "description": "Complex Agents & Control Full High Cyclic Graphs Excellent (LangSmith) High Medium–High —",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 676672661,
+                "language": "Python",
+                "last_commit": "2026-08-24T09:15:53Z",
+                "owner": "langchain-ai",
+                "repo": "langgraph",
+                "stars": 40358
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Haystack",
+              "description": "Enterprise Pipelines Full Very High DAG-based Pipelines Built-in Tracing Medium–High Low–Medium —",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221654678,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:27:08Z",
+                "owner": "deepset-ai",
+                "repo": "haystack",
+                "stars": 26304
+              }
+            }
+          ],
+          "description": "Choose the right framework for your use case with this production-focused comparison:\nKey Considerations:",
+          "node_type": "group",
+          "title": "Framework Comparison"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "LangChain",
               "description": null,
               "children": [],
@@ -14,10 +81,10 @@
                 "archived": false,
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-23T19:58:45Z",
+                "last_commit": "2026-08-24T14:31:31Z",
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 144854
+                "stars": 144894
               }
             },
             {
@@ -29,10 +96,10 @@
                 "archived": false,
                 "id": 730534580,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:35:55Z",
+                "last_commit": "2026-08-24T13:22:18Z",
                 "owner": "infiniflow",
                 "repo": "ragflow",
-                "stars": 89098
+                "stars": 89151
               }
             },
             {
@@ -44,10 +111,10 @@
                 "archived": false,
                 "id": 571186647,
                 "language": "Python",
-                "last_commit": "2026-08-23T05:38:31Z",
+                "last_commit": "2026-08-24T05:32:30Z",
                 "owner": "pathwaycom",
                 "repo": "pathway",
-                "stars": 62398
+                "stars": 62391
               }
             },
             {
@@ -62,7 +129,7 @@
                 "last_commit": "2026-08-20T15:46:41Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51825
+                "stars": 51840
               }
             },
             {
@@ -74,10 +141,10 @@
                 "archived": false,
                 "id": 676672661,
                 "language": "Python",
-                "last_commit": "2026-08-23T00:22:18Z",
+                "last_commit": "2026-08-24T09:15:53Z",
                 "owner": "langchain-ai",
                 "repo": "langgraph",
-                "stars": 40307
+                "stars": 40358
               }
             },
             {
@@ -89,10 +156,10 @@
                 "archived": false,
                 "id": 587050620,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:07:33Z",
+                "last_commit": "2026-08-24T13:44:14Z",
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37544
+                "stars": 37559
               }
             },
             {
@@ -104,10 +171,10 @@
                 "archived": false,
                 "id": 221654678,
                 "language": "Python",
-                "last_commit": "2026-08-22T02:26:28Z",
+                "last_commit": "2026-08-24T14:27:08Z",
                 "owner": "deepset-ai",
                 "repo": "haystack",
-                "stars": 26294
+                "stars": 26304
               }
             },
             {
@@ -137,7 +204,7 @@
                 "last_commit": "2026-06-08T09:25:18Z",
                 "owner": "weaviate",
                 "repo": "Verba",
-                "stars": 7710
+                "stars": 7711
               }
             },
             {
@@ -167,7 +234,7 @@
                 "last_commit": "2026-07-16T13:11:34Z",
                 "owner": "agentset-ai",
                 "repo": "agentset",
-                "stars": 2068
+                "stars": 2070
               }
             }
           ],
@@ -190,10 +257,10 @@
             "archived": false,
             "id": 787076358,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:02:23Z",
+            "last_commit": "2026-08-24T13:54:45Z",
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 171433
+            "stars": 171660
           }
         },
         {
@@ -208,7 +275,7 @@
             "last_commit": "2026-07-22T11:59:34Z",
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 88169
+            "stars": 88216
           }
         },
         {
@@ -220,10 +287,10 @@
             "archived": false,
             "id": 798201435,
             "language": "Python",
-            "last_commit": "2026-08-20T09:23:36Z",
+            "last_commit": "2026-08-24T07:38:40Z",
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 79257
+            "stars": 79319
           }
         },
         {
@@ -235,10 +302,10 @@
             "archived": false,
             "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-21T16:05:34Z",
+            "last_commit": "2026-08-24T14:14:53Z",
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65444
+            "stars": 65478
           }
         },
         {
@@ -253,7 +320,7 @@
             "last_commit": "2026-08-07T06:33:06Z",
             "owner": "datalab-to",
             "repo": "marker",
-            "stars": 39085
+            "stars": 39145
           }
         },
         {
@@ -265,10 +332,10 @@
             "archived": false,
             "id": 982587624,
             "language": "Java",
-            "last_commit": "2026-08-24T02:24:27Z",
+            "last_commit": "2026-08-24T13:42:21Z",
             "owner": "opendataloader-project",
             "repo": "opendataloader-pdf",
-            "stars": 28664
+            "stars": 28690
           }
         },
         {
@@ -283,7 +350,7 @@
             "last_commit": "2026-08-21T20:58:02Z",
             "owner": "Unstructured-IO",
             "repo": "unstructured",
-            "stars": 15338
+            "stars": 15340
           }
         },
         {
@@ -340,6 +407,81 @@
         {
           "node_type": "item",
           "title": "sentence-transformers",
+          "description": "Contrastive / triplet / GISTEmbedLoss fine-tuning General-purpose; widest community and integration support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198616978,
+            "language": "Python",
+            "last_commit": "2026-08-21T06:52:41Z",
+            "owner": "huggingface",
+            "repo": "sentence-transformers",
+            "stars": 19030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlagEmbedding",
+          "description": "BGE-family fine-tuning + LLAMA-based embeddings BAAI BGE model variants; includes hard-negative mining utilities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 673596675,
+            "language": "Python",
+            "last_commit": "2026-08-24T02:57:42Z",
+            "owner": "FlagOpen",
+            "repo": "FlagEmbedding",
+            "stars": 12079
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SetFit",
+          "description": "Few-shot contrastive fine-tuning Low-data regime; strong results with as few as 8 labeled examples per class",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 508972059,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-26T10:31:59Z",
+            "owner": "huggingface",
+            "repo": "setfit",
+            "stars": 2781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tevatron",
+          "description": "Dense retrieval training framework (bi-encoder + reranker) Research-grade pipelines; flexible loss functions and BEIR evaluation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 404550703,
+            "language": "Python",
+            "last_commit": "2026-07-18T19:40:38Z",
+            "owner": "texttron",
+            "repo": "tevatron",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGatouille",
+          "description": "Late-interaction ColBERT fine-tuning When token-level late interaction improves recall vs. single-vector embeddings",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 737043169,
+            "language": "Python",
+            "last_commit": "2025-05-17T12:45:38Z",
+            "owner": "AnswerDotAI",
+            "repo": "RAGatouille",
+            "stars": 3951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentence-transformers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -349,7 +491,7 @@
             "last_commit": "2026-08-21T06:52:41Z",
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19029
+            "stars": 19030
           }
         },
         {
@@ -361,10 +503,10 @@
             "archived": false,
             "id": 673596675,
             "language": "Python",
-            "last_commit": "2026-08-23T12:48:07Z",
+            "last_commit": "2026-08-24T02:57:42Z",
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12076
+            "stars": 12079
           }
         },
         {
@@ -396,13 +538,214 @@
             "repo": "tevatron",
             "stars": 748
           }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGatouille",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 737043169,
+            "language": "Python",
+            "last_commit": "2025-05-17T12:45:38Z",
+            "owner": "AnswerDotAI",
+            "repo": "RAGatouille",
+            "stars": 3951
+          }
         }
       ],
       "title": "Embedding Fine-tuning"
     },
     {
+      "description": "Bottom line: There is no single \"best\" vector DB — match it to your constraints. Use pgvector if you already run PostgreSQL, Qdrant for strong metadata filtering and a generous free tier under ~50M vectors, Milvus to scale toward billions, Pinecone for zero-ops serverless, and Chroma for local prototyping.\nDeep dive: Vector Database Comparison — a decision framework by scale, deployment, filtering, hybrid search, and cost.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Chroma",
+          "description": "Local/Dev & Mid-scale Developer-friendly, open-source embedding database. —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 546206616,
+            "language": "Rust",
+            "last_commit": "2026-08-22T06:36:05Z",
+            "owner": "chroma-core",
+            "repo": "chroma",
+            "stars": 29133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LanceDB",
+          "description": "Serverless & multimodal Embedded, serverless vector DB with native multimodal support; no separate server required. —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607441698,
+            "language": "Rust",
+            "last_commit": "2026-08-24T10:04:07Z",
+            "owner": "lancedb",
+            "repo": "lancedb",
+            "stars": 11257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milvus",
+          "description": "Billions of vectors Most popular OSS for massive scale. [V]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208728772,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:35:22Z",
+            "owner": "milvus-io",
+            "repo": "milvus",
+            "stars": 45769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omnigraph",
+          "description": "Graph + vector + BM25 hybrid Typed graph database where agents branch and merge like Git; S3-native, Rust, with traversal + vector + BM25 in one runtime. —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207219415,
+            "language": "Rust",
+            "last_commit": "2026-08-24T12:21:09Z",
+            "owner": "ModernRelay",
+            "repo": "omnigraph",
+            "stars": 1080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgvector",
+          "description": "PostgreSQL Ecosystem Vector search capability directly within PostgreSQL. —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 359952601,
+            "language": "C",
+            "last_commit": "2026-08-20T03:47:50Z",
+            "owner": "pgvector",
+            "repo": "pgvector",
+            "stars": 22726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qdrant",
+          "description": "<50M vectors Best filtering support and free tier. [V] [3P]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268163609,
+            "language": "Rust",
+            "last_commit": "2026-08-24T13:23:45Z",
+            "owner": "qdrant",
+            "repo": "qdrant",
+            "stars": 34157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vespa",
+          "description": "Web-scale hybrid serving Battle-tested engine combining vector, tensor, text, and structured data at serving time and any scale. —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60377070,
+            "language": "Java",
+            "last_commit": "2026-08-24T13:48:52Z",
+            "owner": "vespa-engine",
+            "repo": "vespa",
+            "stars": 7065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Weaviate",
+          "description": "Hybrid Search Native integration of vector and keyword search. —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55072677,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:18:38Z",
+            "owner": "weaviate",
+            "repo": "weaviate",
+            "stars": 16749
+          }
+        }
+      ],
+      "title": "Vector Databases"
+    },
+    {
       "description": "Production RAG indices drift over time: embedding models are upgraded, schema changes reshape chunk boundaries, and knowledge bases grow. Without versioning, re-indexing becomes a high-risk, manual operation. These tools bring reproducible, auditable version control to datasets and vector indices — enabling safe rollbacks when a model change degrades retrieval quality.\nWhen you need index versioning:",
       "items": [
+        {
+          "node_type": "item",
+          "title": "DVC",
+          "description": "Dataset & model versioning (Git-like) Tracking raw data, embeddings, and model artifacts in a Git-compatible workflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83878269,
+            "language": "Python",
+            "last_commit": "2026-08-24T02:03:27Z",
+            "owner": "treeverse",
+            "repo": "dvc",
+            "stars": 15838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lakeFS",
+          "description": "Git-for-data on object storage Branching and merging large datasets on S3/GCS/Azure — zero-copy snapshots",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208038454,
+            "language": "Go",
+            "last_commit": "2026-08-19T13:41:32Z",
+            "owner": "treeverse",
+            "repo": "lakeFS",
+            "stars": 5493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pachyderm",
+          "description": "Data-versioned pipeline orchestration (upstream stalled since 2025) End-to-end provenance tracking across ingestion → embedding → index pipelines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23653453,
+            "language": "Go",
+            "last_commit": "2025-02-03T22:27:18Z",
+            "owner": "pachyderm",
+            "repo": "pachyderm",
+            "stars": 6308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oxen",
+          "description": "Fast dataset version control ML dataset iteration with commit history, branching, and large-file support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520273044,
+            "language": "Rust",
+            "last_commit": "2026-08-22T00:08:46Z",
+            "owner": "Oxen-AI",
+            "repo": "Oxen",
+            "stars": 1179
+          }
+        },
         {
           "node_type": "item",
           "title": "DVC",
@@ -415,7 +758,7 @@
             "last_commit": "2026-08-24T02:03:27Z",
             "owner": "treeverse",
             "repo": "dvc",
-            "stars": 15836
+            "stars": 15838
           }
         },
         {
@@ -435,7 +778,7 @@
                 "last_commit": "2026-08-19T13:41:32Z",
                 "owner": "treeverse",
                 "repo": "lakeFS",
-                "stars": 5491
+                "stars": 5493
               }
             }
           ],
@@ -461,7 +804,7 @@
             "last_commit": "2026-08-19T13:41:32Z",
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5491
+            "stars": 5493
           }
         },
         {
@@ -476,7 +819,7 @@
             "last_commit": "2026-08-22T00:08:46Z",
             "owner": "Oxen-AI",
             "repo": "Oxen",
-            "stars": 1180
+            "stars": 1179
           }
         }
       ],
@@ -497,7 +840,7 @@
             "last_commit": "2026-08-21T20:58:02Z",
             "owner": "Unstructured-IO",
             "repo": "unstructured",
-            "stars": 15338
+            "stars": 15340
           }
         },
         {
@@ -545,10 +888,10 @@
             "archived": false,
             "id": 958531089,
             "language": "Python",
-            "last_commit": "2026-08-22T06:49:04Z",
+            "last_commit": "2026-08-24T10:55:28Z",
             "owner": "VectifyAI",
             "repo": "PageIndex",
-            "stars": 35301
+            "stars": 35309
           }
         },
         {
@@ -605,10 +948,10 @@
             "archived": false,
             "id": 866513204,
             "language": "Python",
-            "last_commit": "2026-08-24T01:38:12Z",
+            "last_commit": "2026-08-24T06:21:03Z",
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39118
+            "stars": 39137
           }
         },
         {
@@ -620,10 +963,10 @@
             "archived": false,
             "id": 778431525,
             "language": "Python",
-            "last_commit": "2026-08-24T00:25:14Z",
+            "last_commit": "2026-08-24T07:34:25Z",
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35645
+            "stars": 35654
           }
         },
         {
@@ -638,7 +981,7 @@
             "last_commit": "2026-08-10T16:11:54Z",
             "owner": "neo4j-labs",
             "repo": "llm-graph-builder",
-            "stars": 5186
+            "stars": 5189
           }
         },
         {
@@ -653,7 +996,7 @@
             "last_commit": "2026-01-27T07:50:55Z",
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 3974
+            "stars": 3973
           }
         },
         {
@@ -665,10 +1008,10 @@
             "archived": false,
             "id": 1129940957,
             "language": "Python",
-            "last_commit": "2026-08-23T19:01:10Z",
+            "last_commit": "2026-08-24T11:04:33Z",
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 67299
+            "stars": 67366
           }
         },
         {
@@ -683,7 +1026,7 @@
             "last_commit": "2026-04-08T18:59:13Z",
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6597
+            "stars": 6600
           }
         }
       ],
@@ -703,10 +1046,10 @@
                 "archived": false,
                 "id": 730534580,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:35:55Z",
+                "last_commit": "2026-08-24T13:22:18Z",
                 "owner": "infiniflow",
                 "repo": "ragflow",
-                "stars": 89098
+                "stars": 89151
               }
             },
             {
@@ -721,7 +1064,7 @@
                 "last_commit": "2026-04-15T11:59:09Z",
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60599
+                "stars": 60609
               }
             },
             {
@@ -733,10 +1076,10 @@
                 "archived": false,
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-23T19:00:08Z",
+                "last_commit": "2026-08-24T13:16:05Z",
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57523
+                "stars": 57554
               }
             },
             {
@@ -748,10 +1091,10 @@
                 "archived": false,
                 "id": 676672661,
                 "language": "Python",
-                "last_commit": "2026-08-23T00:22:18Z",
+                "last_commit": "2026-08-24T09:15:53Z",
                 "owner": "langchain-ai",
                 "repo": "langgraph",
-                "stars": 40307
+                "stars": 40358
               }
             }
           ],
@@ -776,10 +1119,10 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-23T02:19:56Z",
+                "last_commit": "2026-08-24T14:19:37Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 63900
+                "stars": 63949
               }
             },
             {
@@ -794,7 +1137,7 @@
                 "last_commit": "2026-08-21T01:52:20Z",
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30229
+                "stars": 30256
               }
             },
             {
@@ -809,7 +1152,7 @@
                 "last_commit": "2026-08-23T19:05:43Z",
                 "owner": "letta-ai",
                 "repo": "letta",
-                "stars": 24377
+                "stars": 24401
               }
             },
             {
@@ -854,6 +1197,51 @@
       "description": "Production RAG increasingly operates on documents that combine text, images, tables, and charts — financial reports, technical manuals, and product catalogs that defeat pure-text chunking. Multimodal RAG extends classical retrieval by embedding and querying across modalities in a shared vector space, or by treating document pages as images (ColPali-style), bypassing the OCR → chunk → embed pipeline and preserving layout information that text extraction destroys.\nCore Capabilities:",
       "items": [
         {
+          "node_type": "item",
+          "title": "Byaldi",
+          "description": "Quick ColPali deployment Document pages (image) Late interaction Unmaintained since 2025-01 —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 852492838,
+            "language": "Python",
+            "last_commit": "2025-01-28T20:47:40Z",
+            "owner": "AnswerDotAI",
+            "repo": "byaldi",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColPali",
+          "description": "Layout-rich PDF retrieval Document pages (image) Late interaction Research → Production [3P]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 817877504,
+            "language": "Python",
+            "last_commit": "2026-08-22T14:09:38Z",
+            "owner": "illuin-tech",
+            "repo": "colpali",
+            "stars": 2795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marqo",
+          "description": "Hybrid multimodal search Text + Image CLIP-based Production —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520096046,
+            "language": "Python",
+            "last_commit": "2026-08-08T08:50:53Z",
+            "owner": "marqo-ai",
+            "repo": "marqo",
+            "stars": 5026
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -867,7 +1255,7 @@
                 "last_commit": "2026-08-08T08:50:53Z",
                 "owner": "marqo-ai",
                 "repo": "marqo",
-                "stars": 5023
+                "stars": 5026
               }
             },
             {
@@ -882,7 +1270,7 @@
                 "last_commit": "2026-08-22T14:09:38Z",
                 "owner": "illuin-tech",
                 "repo": "colpali",
-                "stars": 2794
+                "stars": 2795
               }
             },
             {
@@ -930,7 +1318,7 @@
                     "last_commit": "2026-08-21T11:25:17Z",
                     "owner": "Canner",
                     "repo": "WrenAI",
-                    "stars": 17370
+                    "stars": 17376
                   }
                 }
               ],
@@ -941,7 +1329,7 @@
                 "last_commit": "2026-02-02T14:14:20Z",
                 "owner": "vanna-ai",
                 "repo": "vanna",
-                "stars": 23821
+                "stars": 23820
               }
             },
             {
@@ -956,7 +1344,7 @@
                 "last_commit": "2026-08-21T11:25:17Z",
                 "owner": "Canner",
                 "repo": "WrenAI",
-                "stars": 17370
+                "stars": 17376
               }
             }
           ],
@@ -979,10 +1367,10 @@
             "archived": false,
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:07:45Z",
+            "last_commit": "2026-08-24T14:24:44Z",
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24501
+            "stars": 24526
           }
         },
         {
@@ -997,7 +1385,7 @@
             "last_commit": "2026-08-21T19:24:44Z",
             "owner": "confident-ai",
             "repo": "deepeval",
-            "stars": 17811
+            "stars": 17818
           }
         },
         {
@@ -1012,7 +1400,7 @@
             "last_commit": "2026-02-24T07:47:19Z",
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15440
+            "stars": 15450
           }
         },
         {
@@ -1027,7 +1415,7 @@
             "last_commit": "2026-08-21T16:57:30Z",
             "owner": "truera",
             "repo": "trulens",
-            "stars": 3519
+            "stars": 3520
           }
         },
         {
@@ -1127,10 +1515,10 @@
             "archived": false,
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:42:20Z",
+            "last_commit": "2026-08-24T14:30:11Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33589
+            "stars": 33631
           }
         },
         {
@@ -1142,10 +1530,10 @@
             "archived": false,
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-24T00:49:32Z",
+            "last_commit": "2026-08-24T14:30:38Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21557
+            "stars": 21568
           }
         },
         {
@@ -1157,10 +1545,10 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-23T23:17:10Z",
+            "last_commit": "2026-08-24T14:31:18Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11151
+            "stars": 11168
           }
         },
         {
@@ -1172,7 +1560,7 @@
             "archived": false,
             "id": 747319327,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T05:10:26Z",
+            "last_commit": "2026-08-24T10:38:43Z",
             "owner": "openlit",
             "repo": "openlit",
             "stars": 2716
@@ -1187,10 +1575,10 @@
             "archived": false,
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-23T00:43:53Z",
+            "last_commit": "2026-08-24T14:15:57Z",
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1797
+            "stars": 1801
           }
         }
       ],
@@ -1211,7 +1599,7 @@
             "last_commit": "2026-08-23T18:40:59Z",
             "owner": "ollama",
             "repo": "ollama",
-            "stars": 179286
+            "stars": 179320
           }
         },
         {
@@ -1223,10 +1611,10 @@
             "archived": false,
             "id": 599547518,
             "language": "Python",
-            "last_commit": "2026-08-24T01:15:10Z",
+            "last_commit": "2026-08-24T14:29:45Z",
             "owner": "vllm-project",
             "repo": "vllm",
-            "stars": 89816
+            "stars": 89872
           }
         },
         {
@@ -1238,10 +1626,10 @@
             "archived": false,
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-24T00:04:15Z",
+            "last_commit": "2026-08-24T12:25:44Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43587
+            "stars": 43598
           }
         },
         {
@@ -1253,10 +1641,10 @@
             "archived": false,
             "id": 151636194,
             "language": "Python",
-            "last_commit": "2026-08-20T16:50:44Z",
+            "last_commit": "2026-08-24T14:17:50Z",
             "owner": "triton-inference-server",
             "repo": "server",
-            "stars": 10933
+            "stars": 10935
           }
         },
         {
@@ -1268,10 +1656,10 @@
             "archived": false,
             "id": 395140743,
             "language": "Python",
-            "last_commit": "2026-08-24T00:46:54Z",
+            "last_commit": "2026-08-24T13:01:51Z",
             "owner": "skypilot-org",
             "repo": "skypilot",
-            "stars": 10520
+            "stars": 10521
           }
         },
         {
@@ -1286,7 +1674,7 @@
             "last_commit": "2026-08-21T07:40:35Z",
             "owner": "bentoml",
             "repo": "BentoML",
-            "stars": 8799
+            "stars": 8801
           }
         },
         {
@@ -1301,7 +1689,7 @@
             "last_commit": "2026-08-24T02:37:23Z",
             "owner": "kserve",
             "repo": "kserve",
-            "stars": 5819
+            "stars": 5825
           }
         }
       ],
@@ -1310,6 +1698,36 @@
     {
       "description": "Caching is one of the highest-leverage optimizations in production RAG: it directly reduces cost, cuts p99 latency, and absorbs traffic spikes without scaling infrastructure. Four distinct cache layers exist, each targeting a different bottleneck — deploying them in combination yields compounding returns.\nCache Layers:",
       "items": [
+        {
+          "node_type": "item",
+          "title": "GPTCache",
+          "description": "Exact + Semantic Application Redis / Milvus / SQLite Reducing duplicate LLM calls —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 618276831,
+            "language": "Python",
+            "last_commit": "2025-07-11T09:04:36Z",
+            "owner": "zilliztech",
+            "repo": "GPTCache",
+            "stars": 8168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RedisVL Semantic Cache",
+          "description": "Semantic Application Redis Stack Existing Redis infra, sub-ms lookup —",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 561914940,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:20:58Z",
+            "owner": "redis",
+            "repo": "redis-vl-python",
+            "stars": 425
+          }
+        },
         {
           "children": [
             {
@@ -1336,10 +1754,10 @@
                 "archived": false,
                 "id": 561914940,
                 "language": "Python",
-                "last_commit": "2026-08-20T08:52:16Z",
+                "last_commit": "2026-08-24T14:20:58Z",
                 "owner": "redis",
                 "repo": "redis-vl-python",
-                "stars": 424
+                "stars": 425
               }
             }
           ],
@@ -1365,7 +1783,7 @@
             "last_commit": "2026-08-21T13:16:05Z",
             "owner": "zylon-ai",
             "repo": "private-gpt",
-            "stars": 57458
+            "stars": 57461
           }
         },
         {
@@ -1380,7 +1798,7 @@
             "last_commit": "2026-08-11T15:20:50Z",
             "owner": "data-privacy-stack",
             "repo": "presidio",
-            "stars": 10592
+            "stars": 10601
           }
         },
         {
@@ -1392,10 +1810,10 @@
             "archived": false,
             "id": 629494390,
             "language": "Python",
-            "last_commit": "2026-08-21T21:51:33Z",
+            "last_commit": "2026-08-24T14:23:16Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7003
+            "stars": 7008
           }
         },
         {
@@ -1410,7 +1828,7 @@
             "last_commit": "2026-07-08T23:58:40Z",
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3201
+            "stars": 3202
           }
         }
       ],
@@ -1422,16 +1840,61 @@
         {
           "node_type": "item",
           "title": "LiteLLM",
+          "description": "Self-host / Cloud 100+ providers Redis / S3 / Disk Built-in Multi-provider routing, OpenAI-compatible proxy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671269505,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:13:55Z",
+            "owner": "BerriAI",
+            "repo": "litellm",
+            "stars": 57143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portkey",
+          "description": "Self-host / Cloud 200+ providers Built-in Dashboard Enterprise gateway with observability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 682080300,
+            "language": "TypeScript",
+            "last_commit": "2026-05-25T13:54:51Z",
+            "owner": "Portkey-AI",
+            "repo": "gateway",
+            "stars": 12815
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helicone",
+          "description": "Self-host / Cloud OpenAI + Anthropic Built-in Fine-grained token analytics Cost optimization and prompt versioning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595832198,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T16:42:14Z",
+            "owner": "Helicone",
+            "repo": "helicone",
+            "stars": 6097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiteLLM",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-24T00:21:40Z",
+            "last_commit": "2026-08-24T13:13:55Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57090
+            "stars": 57143
           }
         },
         {
@@ -1446,7 +1909,7 @@
             "last_commit": "2026-05-25T13:54:51Z",
             "owner": "Portkey-AI",
             "repo": "gateway",
-            "stars": 12813
+            "stars": 12815
           }
         },
         {
@@ -1461,7 +1924,7 @@
             "last_commit": "2026-08-23T16:42:14Z",
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6095
+            "stars": 6097
           }
         }
       ],
@@ -1472,6 +1935,66 @@
       "items": [
         {
           "node_type": "item",
+          "title": "tokencost",
+          "description": "Token counting & cost lookup Pre-flight cost estimates across 400+ LLM models without a live API call",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 726692169,
+            "language": "Python",
+            "last_commit": "2025-09-05T08:10:10Z",
+            "owner": "AgentOps-AI",
+            "repo": "tokencost",
+            "stars": 2004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMeter",
+          "description": "Usage metering & billing Per-user / per-feature metering with Stripe integration for usage-based billing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 650344440,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:31:52Z",
+            "owner": "openmeterio",
+            "repo": "openmeter",
+            "stars": 2227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiteLLM",
+          "description": "Gateway-level cost tracking Multi-provider cost dashboard + per-route spend limits (see LLM Gateways)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671269505,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:13:55Z",
+            "owner": "BerriAI",
+            "repo": "litellm",
+            "stars": 57143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helicone",
+          "description": "Observability + cost attribution Fine-grained token analytics per user, team, or feature (see LLM Gateways)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595832198,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T16:42:14Z",
+            "owner": "Helicone",
+            "repo": "helicone",
+            "stars": 6097
+          }
+        },
+        {
+          "node_type": "item",
           "title": "OpenMeter",
           "description": null,
           "children": [],
@@ -1479,10 +2002,10 @@
             "archived": false,
             "id": 650344440,
             "language": "Go",
-            "last_commit": "2026-08-23T16:53:46Z",
+            "last_commit": "2026-08-24T14:31:52Z",
             "owner": "openmeterio",
             "repo": "openmeter",
-            "stars": 2226
+            "stars": 2227
           }
         },
         {
@@ -1518,7 +2041,7 @@
             "last_commit": "2026-08-19T19:37:03Z",
             "owner": "NirDiamant",
             "repo": "RAG_Techniques",
-            "stars": 29188
+            "stars": 29197
           }
         },
         {
@@ -1548,7 +2071,7 @@
             "last_commit": "2026-08-15T00:52:07Z",
             "owner": "NirDiamant",
             "repo": "Agent_Memory_Techniques",
-            "stars": 927
+            "stars": 928
           }
         }
       ],
@@ -1556,7 +2079,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:37:37.546Z",
+    "last_updated": "2026-08-24T14:32:13.130Z",
     "original_repository": "Yigtwxx/awesome-rag-production",
     "original_repository_id": 1119405225,
     "original_repository_sha": "f9e8f1fc89ae017471f9773141f1e4d7de5e0eee",
