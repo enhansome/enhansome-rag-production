@@ -2,7 +2,7 @@
 
 > A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring production-grade Retrieval-Augmented Generation (RAG) systems.
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,355 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,367 | 🐛 105 | 📅 2026-08-21
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![GitHub Stars](https://img.shields.io/github/stars/Yigtwxx/Awesome-RAG-Production?style=flat-square\&logo=github\&label=Stars)](https://github.com/Yigtwxx/Awesome-RAG-Production/stargazers) ⭐ 208 | 🐛 2 | 🌐 Python | 📅 2026-08-26
@@ -16,7 +16,7 @@
 <!-- Featured in: verified-live awesome-list inclusions only -->
 
 [![Featured in Awesome Generative AI](https://img.shields.io/badge/Featured_in-Awesome_Generative_AI-0a7d8b?style=flat-square\&logo=awesomelists\&logoColor=white)](https://github.com/steven2358/awesome-generative-ai#more-lists) ⭐ 12,537 | 🐛 607 | 📅 2026-08-03
-[![Featured in Awesome Machine Learning](https://img.shields.io/badge/Featured_in-Awesome_Machine_Learning-0a7d8b?style=flat-square\&logo=awesomelists\&logoColor=white)](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,176 | 🐛 28 | 🌐 Python | 📅 2026-08-26
+[![Featured in Awesome Machine Learning](https://img.shields.io/badge/Featured_in-Awesome_Machine_Learning-0a7d8b?style=flat-square\&logo=awesomelists\&logoColor=white)](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,177 | 🐛 28 | 🌐 Python | 📅 2026-08-26
 [![Featured in Awesome Production ML](https://img.shields.io/badge/Featured_in-Awesome_Production_ML-0a7d8b?style=flat-square\&logo=awesomelists\&logoColor=white)](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,869 | 🐛 33 | 📅 2026-08-26
 
 *Last reviewed: 2026-06-17 · Freshness audited weekly via [discovery\_engine](scripts/discovery_engine.py)*
@@ -285,10 +285,10 @@ Choose the right framework for your use case with this production-focused compar
 
 | Framework                                                                                                | Best For                   | Async Support | Production Readiness | Orchestration Style | Observability         | Learning Curve | Deployment Complexity | Evidence |
 | :------------------------------------------------------------------------------------------------------- | :------------------------- | :------------ | :------------------- | :------------------ | :-------------------- | :------------- | :-------------------- | :------- |
-| [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 51,888 \| 🐛 666 \| 🌐 Python \| 📅 2026-08-27  | Data Processing & Indexing | Full          | High                 | Data-Flow Pipelines | Built-in + 3rd Party  | Low–Medium     | Low                   | —        |
-| [LangChain](https://github.com/langchain-ai/langchain) ⭐ 145,107 \| 🐛 432 \| 🌐 Python \| 📅 2026-08-26 | Rapid Prototyping          | Full          | Medium–High          | Sequential Chains   | Excellent (LangSmith) | Medium         | Medium                | —        |
-| [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 40,536 \| 🐛 724 \| 🌐 Python \| 📅 2026-08-27  | Complex Agents & Control   | Full          | High                 | Cyclic Graphs       | Excellent (LangSmith) | High           | Medium–High           | —        |
-| [Haystack](https://github.com/deepset-ai/haystack) ⭐ 26,330 \| 🐛 109 \| 🌐 Python \| 📅 2026-08-27      | Enterprise Pipelines       | Full          | Very High            | DAG-based Pipelines | Built-in Tracing      | Medium–High    | Low–Medium            | —        |
+| [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 51,891 \| 🐛 666 \| 🌐 Python \| 📅 2026-08-27  | Data Processing & Indexing | Full          | High                 | Data-Flow Pipelines | Built-in + 3rd Party  | Low–Medium     | Low                   | —        |
+| [LangChain](https://github.com/langchain-ai/langchain) ⭐ 145,114 \| 🐛 433 \| 🌐 Python \| 📅 2026-08-27 | Rapid Prototyping          | Full          | Medium–High          | Sequential Chains   | Excellent (LangSmith) | Medium         | Medium                | —        |
+| [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 40,542 \| 🐛 723 \| 🌐 Python \| 📅 2026-08-27  | Complex Agents & Control   | Full          | High                 | Cyclic Graphs       | Excellent (LangSmith) | High           | Medium–High           | —        |
+| [Haystack](https://github.com/deepset-ai/haystack) ⭐ 26,330 \| 🐛 110 \| 🌐 Python \| 📅 2026-08-27      | Enterprise Pipelines       | Full          | Very High            | DAG-based Pipelines | Built-in Tracing      | Medium–High    | Low–Medium            | —        |
 
 **Key Considerations:**
 
@@ -301,24 +301,24 @@ Choose the right framework for your use case with this production-focused compar
 
 ### Frameworks
 
-* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 145,107 | 🐛 432 | 🌐 Python | 📅 2026-08-26
+* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 145,114 | 🐛 433 | 🌐 Python | 📅 2026-08-27
   * The most widely adopted LLM orchestration library. Offers a broad ecosystem
     of integrations (100+ LLMs, vector stores, tools) and a composable chain
     abstraction that enables rapid prototyping; pair with LangSmith for
     production observability and evaluation.
-* [RAGFlow](https://github.com/infiniflow/ragflow) ⭐ 89,376 | 🐛 1,702 | 🌐 Go | 📅 2026-08-27
+* [RAGFlow](https://github.com/infiniflow/ragflow) ⭐ 89,377 | 🐛 1,701 | 🌐 Go | 📅 2026-08-27
   * An end-to-end RAG engine designed for deep document understanding. It handles
     complex layouts (PDFs, tables, images) natively and includes a built-in
     knowledge base management system.
-* [Pathway](https://github.com/pathwaycom/pathway) ⭐ 62,375 | 🐛 35 | 🌐 Python | 📅 2026-08-27
+* [Pathway](https://github.com/pathwaycom/pathway) ⭐ 62,376 | 🐛 35 | 🌐 Python | 📅 2026-08-27
   * A high-performance data processing framework for live data. It enables
     "Always-Live" RAG by syncing vector indices in real-time as the underlying
     data source changes, without full re-indexing.
-* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 51,888 | 🐛 666 | 🌐 Python | 📅 2026-08-27
+* [LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 51,891 | 🐛 666 | 🌐 Python | 📅 2026-08-27
   * The premier data framework for LLMs. It excels at connecting custom data
     sources to LLMs, offering advanced indexing strategies (like recursive
     retrieval) and optimized query engines for deep insight extraction.
-* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 40,536 | 🐛 724 | 🌐 Python | 📅 2026-08-27
+* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 40,542 | 🐛 723 | 🌐 Python | 📅 2026-08-27
   * A library for building stateful, multi-actor applications with LLMs. Unlike
     simple chains, it enables cyclic graphs for complex, agentic workflows with
     human-in-the-loop control and persistence.
@@ -328,7 +328,7 @@ Choose the right framework for your use case with this production-focused compar
     automatically tune prompts and few-shot examples to meet a declared metric,
     replacing brittle hand-crafted prompt chains with reproducible, optimizable
     programs.
-* [Haystack](https://github.com/deepset-ai/haystack) ⭐ 26,330 | 🐛 109 | 🌐 Python | 📅 2026-08-27
+* [Haystack](https://github.com/deepset-ai/haystack) ⭐ 26,330 | 🐛 110 | 🌐 Python | 📅 2026-08-27
   * A modular framework focused on production readiness. It emphasizes auditable
     pipelines, strict type-checking, and reproducibility, making it ideal for
     enterprise-grade RAG where reliability is paramount.
@@ -355,20 +355,20 @@ Choose the right framework for your use case with this production-focused compar
 
 ## Data Ingestion & Parsing
 
-* [Firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 173,025 | 🐛 555 | 🌐 TypeScript | 📅 2026-08-27
+* [Firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 173,038 | 🐛 555 | 🌐 TypeScript | 📅 2026-08-27
   * Effortlessly turn websites into clean, LLM-ready markdown.
-* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,337 | 🐛 234 | 🌐 Python | 📅 2026-07-22
+* [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) ⭐ 88,338 | 🐛 234 | 🌐 Python | 📅 2026-07-22
   <!-- verified: 2026-06-25 -->
   * Apache-2.0 OCR toolkit that turns PDFs and images into structured, LLM-ready
     data across 100+ languages. Its PP-StructureV3 pipeline recovers tables,
     formulas, and reading order, providing a self-hostable parsing layer for
     document-heavy RAG ingestion.
-* [Crawl4AI](https://github.com/unclecode/crawl4ai) ⭐ 79,505 | 🐛 167 | 🌐 Python | 📅 2026-08-25
+* [Crawl4AI](https://github.com/unclecode/crawl4ai) ⭐ 79,509 | 🐛 167 | 🌐 Python | 📅 2026-08-25
   * An open-source web crawler purpose-built for LLM pipelines. Converts web
     pages into clean, structured markdown or JSON ready for ingestion — with
     async multi-page crawling, JavaScript rendering, and a simple API that
     integrates directly into RAG indexing workflows.
-* [Docling](https://github.com/docling-project/docling) ⭐ 65,631 | 🐛 975 | 🌐 Python | 📅 2026-08-26
+* [Docling](https://github.com/docling-project/docling) ⭐ 65,632 | 🐛 976 | 🌐 Python | 📅 2026-08-26
   * IBM's open-source document parser for production AI pipelines. Handles
     advanced PDF understanding (tables, figures, complex layouts) alongside
     DOCX, PPTX, HTML, and image formats, exporting clean structured output
@@ -397,7 +397,7 @@ Choose the right framework for your use case with this production-focused compar
     with optional local VLM/LLM review to turn forms, flowcharts, tables, and
     screenshot-heavy manuals into semantic Markdown, structured chunks, source
     maps, and split documents for RAG ingestion.
-* [mdgate/converters](https://github.com/mdgate/converters) ⭐ 1 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-27
+* [mdgate/converters](https://github.com/mdgate/converters) ⭐ 1 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-27
   <!-- verified: 2026-08-24 -->
   * Pure TypeScript document-to-Markdown converter for RAG ingestion, parsing
     DOCX, PDF, PPTX, XLSX, iWork, HWP, email, and other office formats in Node,
@@ -459,18 +459,18 @@ training from scratch. See also: [rag-pitfalls.md — Embedding Model Selection]
 
 | Tool                                                                                                                        | Approach                                                   | Best For                                                                       |
 | :-------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------- | :----------------------------------------------------------------------------- |
-| [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,040 \| 🐛 1,318 \| 🌐 Python \| 📅 2026-08-27 | Contrastive / triplet / GISTEmbedLoss fine-tuning          | General-purpose; widest community and integration support                      |
-| [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) ⭐ 12,090 \| 🐛 906 \| 🌐 Python \| 📅 2026-08-24                 | BGE-family fine-tuning + LLAMA-based embeddings            | BAAI BGE model variants; includes hard-negative mining utilities               |
+| [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,039 \| 🐛 1,318 \| 🌐 Python \| 📅 2026-08-27 | Contrastive / triplet / GISTEmbedLoss fine-tuning          | General-purpose; widest community and integration support                      |
+| [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) ⭐ 12,091 \| 🐛 906 \| 🌐 Python \| 📅 2026-08-24                 | BGE-family fine-tuning + LLAMA-based embeddings            | BAAI BGE model variants; includes hard-negative mining utilities               |
 | [SetFit](https://github.com/huggingface/setfit) ⭐ 2,784 \| 🐛 163 \| 🌐 Jupyter Notebook \| 📅 2026-05-26                   | Few-shot contrastive fine-tuning                           | Low-data regime; strong results with as few as 8 labeled examples per class    |
 | [Tevatron](https://github.com/texttron/tevatron) ⭐ 749 \| 🐛 57 \| 🌐 Python \| 📅 2026-07-18                               | Dense retrieval training framework (bi-encoder + reranker) | Research-grade pipelines; flexible loss functions and BEIR evaluation          |
 | [RAGatouille](https://github.com/AnswerDotAI/RAGatouille) ⭐ 3,954 \| 🐛 97 \| 🌐 Python \| 📅 2025-05-17                    | Late-interaction ColBERT fine-tuning                       | When token-level late interaction improves recall vs. single-vector embeddings |
 
-* [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,040 | 🐛 1,318 | 🌐 Python | 📅 2026-08-27
+* [sentence-transformers](https://github.com/UKPLab/sentence-transformers) ⭐ 19,039 | 🐛 1,318 | 🌐 Python | 📅 2026-08-27
   * The de-facto Python library for embedding model fine-tuning. Supports
     contrastive, triplet, and GISTEmbed loss functions with native integration
     into Hugging Face Hub. The `SentenceTransformerTrainer` API covers
     most domain-adaptation use cases with minimal boilerplate.
-* [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) ⭐ 12,090 | 🐛 906 | 🌐 Python | 📅 2026-08-24
+* [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) ⭐ 12,091 | 🐛 906 | 🌐 Python | 📅 2026-08-24
   * BAAI's training toolkit for the BGE model family, including BGE-M3 and
     LLM-based embedding variants. Ships with hard-negative mining scripts,
     C-MTEB evaluation, and recipe configs for reproducing published BGE results.
@@ -499,15 +499,15 @@ training from scratch. See also: [rag-pitfalls.md — Embedding Model Selection]
 
 | Tool                                                                                               | Best For                     | Key Strength                                                                                                                 | Evidence                                                                             |
 | :------------------------------------------------------------------------------------------------- | :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- |
-| [Chroma](https://github.com/chroma-core/chroma) ⭐ 29,158 \| 🐛 804 \| 🌐 Rust \| 📅 2026-08-27     | Local/Dev & Mid-scale        | Developer-friendly, open-source embedding database.                                                                          | —                                                                                    |
-| [LanceDB](https://github.com/lancedb/lancedb) ⭐ 11,292 \| 🐛 602 \| 🌐 Rust \| 📅 2026-08-27       | Serverless & multimodal      | Embedded, serverless vector DB with native multimodal support; no separate server required.                                  | —                                                                                    |
-| [Milvus](https://github.com/milvus-io/milvus) ⭐ 45,822 \| 🐛 1,331 \| 🌐 Go \| 📅 2026-08-27       | Billions of vectors          | Most popular OSS for massive scale.                                                                                          | [\[V\]](benchmarks.md#1-vector-databases)                                            |
+| [Chroma](https://github.com/chroma-core/chroma) ⭐ 29,157 \| 🐛 804 \| 🌐 Rust \| 📅 2026-08-27     | Local/Dev & Mid-scale        | Developer-friendly, open-source embedding database.                                                                          | —                                                                                    |
+| [LanceDB](https://github.com/lancedb/lancedb) ⭐ 11,294 \| 🐛 602 \| 🌐 Rust \| 📅 2026-08-27       | Serverless & multimodal      | Embedded, serverless vector DB with native multimodal support; no separate server required.                                  | —                                                                                    |
+| [Milvus](https://github.com/milvus-io/milvus) ⭐ 45,823 \| 🐛 1,331 \| 🌐 Go \| 📅 2026-08-27       | Billions of vectors          | Most popular OSS for massive scale.                                                                                          | [\[V\]](benchmarks.md#1-vector-databases)                                            |
 | [Omnigraph](https://github.com/ModernRelay/omnigraph) ⭐ 1,083 \| 🐛 31 \| 🌐 Rust \| 📅 2026-08-27 | Graph + vector + BM25 hybrid | Typed graph database where agents branch and merge like Git; S3-native, Rust, with traversal + vector + BM25 in one runtime. | —                                                                                    |
 | [pgvector](https://github.com/pgvector/pgvector) ⭐ 22,777 \| 🐛 14 \| 🌐 C \| 📅 2026-08-20        | PostgreSQL Ecosystem         | Vector search capability directly within PostgreSQL.                                                                         | —                                                                                    |
 | [Pinecone](https://www.pinecone.io/)                                                               | 10M-100M+ vectors            | Zero-ops, serverless architecture.                                                                                           | —                                                                                    |
-| [Qdrant](https://github.com/qdrant/qdrant) ⭐ 34,220 \| 🐛 708 \| 🌐 Rust \| 📅 2026-08-27          | <50M vectors                 | Best filtering support and free tier.                                                                                        | [\[V\]](benchmarks.md#1-vector-databases) [\[3P\]](benchmarks.md#1-vector-databases) |
-| [Vespa](https://github.com/vespa-engine/vespa) ⭐ 7,070 \| 🐛 251 \| 🌐 Java \| 📅 2026-08-27       | Web-scale hybrid serving     | Battle-tested engine combining vector, tensor, text, and structured data at serving time and any scale.                      | —                                                                                    |
-| [Weaviate](https://github.com/weaviate/weaviate) ⭐ 16,754 \| 🐛 692 \| 🌐 Go \| 📅 2026-08-27      | Hybrid Search                | Native integration of vector and keyword search.                                                                             | —                                                                                    |
+| [Qdrant](https://github.com/qdrant/qdrant) ⭐ 34,218 \| 🐛 708 \| 🌐 Rust \| 📅 2026-08-27          | <50M vectors                 | Best filtering support and free tier.                                                                                        | [\[V\]](benchmarks.md#1-vector-databases) [\[3P\]](benchmarks.md#1-vector-databases) |
+| [Vespa](https://github.com/vespa-engine/vespa) ⭐ 7,069 \| 🐛 254 \| 🌐 Java \| 📅 2026-08-27       | Web-scale hybrid serving     | Battle-tested engine combining vector, tensor, text, and structured data at serving time and any scale.                      | —                                                                                    |
+| [Weaviate](https://github.com/weaviate/weaviate) ⭐ 16,754 \| 🐛 691 \| 🌐 Go \| 📅 2026-08-27      | Hybrid Search                | Native integration of vector and keyword search.                                                                             | —                                                                                    |
 
 **Bottom line:** There is no single "best" vector DB — match it to your
 constraints. Use **pgvector** if you already run PostgreSQL, **Qdrant** for
@@ -633,7 +633,7 @@ understanding) with Sparse Keyword Search (BM25 for exact term matching). This
 mitigates the "lost in the middle" phenomenon and significantly improves
 zero-shot retrieval performance.
 
-* [PageIndex](https://github.com/VectifyAI/PageIndex) ⭐ 35,337 | 🐛 163 | 🌐 Python | 📅 2026-08-27
+* [PageIndex](https://github.com/VectifyAI/PageIndex) ⭐ 35,338 | 🐛 163 | 🌐 Python | 📅 2026-08-27
   <!-- verified: 2026-08-01 -->
   * Builds a hierarchical table-of-contents index over long documents and
     navigates it by reasoning instead of vector similarity. Useful where
@@ -672,7 +672,7 @@ An advanced retrieval method that constructs a knowledge graph from documents. I
 traverses relationships between entities to answer "global" queries (e.g., "What
 are the main themes?") that standard vector search struggles to address.
 
-* [LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 39,218 | 🐛 209 | 🌐 Python | 📅 2026-08-27
+* [LightRAG](https://github.com/HKUDS/LightRAG) ⭐ 39,219 | 🐛 209 | 🌐 Python | 📅 2026-08-27
   <!-- verified: 2026-08-21 -->
   * Pairs graph traversal with dual-level vector retrieval and supports
     incremental updates and selective deletion, so a changed document does not
@@ -683,7 +683,7 @@ are the main themes?") that standard vector search struggles to address.
   * Microsoft Research's production-grade graph-based RAG framework. Builds a
     community-aware knowledge graph from documents, enabling both local
     (entity-centric) and global (theme-level) queries with LLM-generated summaries.
-* [Neo4j LLM Knowledge Graph Builder](https://github.com/neo4j-labs/llm-graph-builder) ⭐ 5,199 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2026-08-10
+* [Neo4j LLM Knowledge Graph Builder](https://github.com/neo4j-labs/llm-graph-builder) ⭐ 5,200 | 🐛 54 | 🌐 Jupyter Notebook | 📅 2026-08-10
   * An end-to-end application that extracts knowledge graphs from unstructured
     documents into Neo4j using LLMs. Provides a UI for exploring the resulting
     graph and integrates with LangChain's Neo4j vector + graph retrieval.
@@ -709,7 +709,7 @@ survives — stripping boilerplate, repeated JSON keys, and log noise before the
 prompt is assembled. It attacks the same context-window and cost pressure from the
 opposite end, and the two compose.
 
-* [headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 67,762 | 🐛 561 | 🌐 Python | 📅 2026-08-27
+* [headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 67,768 | 🐛 561 | 🌐 Python | 📅 2026-08-27
   <!-- verified: 2026-08-21 -->
   * An Apache-2.0 compression layer for everything an agent reads — tool outputs,
     logs, files, and retrieved chunks — shipped as a library, a proxy, and an MCP
@@ -802,17 +802,17 @@ their retrieval strategy based on intermediate results.
 
 ### Frameworks & Tools
 
-* [RAGFlow](https://github.com/infiniflow/ragflow) ⭐ 89,376 | 🐛 1,702 | 🌐 Go | 📅 2026-08-27 — see [Frameworks & Orchestration](#frameworks--orchestration) for the full entry.
+* [RAGFlow](https://github.com/infiniflow/ragflow) ⭐ 89,377 | 🐛 1,701 | 🌐 Go | 📅 2026-08-27 — see [Frameworks & Orchestration](#frameworks--orchestration) for the full entry.
   * Extends the core RAGFlow engine with agentic capabilities: dynamic document re-ranking, query decomposition, and adaptive retrieval strategies based on query complexity.
 * [AutoGen](https://github.com/microsoft/autogen) ⭐ 60,647 | 🐛 1,004 | 🌐 Python | 📅 2026-04-15
   * Microsoft's framework for building multi-agent conversational systems. Agents
     can collaborate, debate, and refine answers through back-and-forth dialogue,
     improving output quality through consensus.
-* [CrewAI](https://github.com/crewAIInc/crewAI) ⭐ 57,667 | 🐛 793 | 🌐 Python | 📅 2026-08-27
+* [CrewAI](https://github.com/crewAIInc/crewAI) ⭐ 57,668 | 🐛 794 | 🌐 Python | 📅 2026-08-27
   * A lightweight framework for orchestrating role-playing autonomous AI agents.
     Define specialized "crew members" (Researcher, Writer, Critic) that work
     together on complex RAG tasks.
-* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 40,536 | 🐛 724 | 🌐 Python | 📅 2026-08-27 — see [Frameworks & Orchestration](#frameworks--orchestration) for the full entry.
+* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 40,542 | 🐛 723 | 🌐 Python | 📅 2026-08-27 — see [Frameworks & Orchestration](#frameworks--orchestration) for the full entry.
   * The canonical choice for cyclic, stateful agentic workflows with human-in-the-loop control and memory persistence.
 * [OpenAI Responses API](https://developers.openai.com/api/docs/assistants/migration)
   <!-- verified: 2026-08-01 -->
@@ -854,12 +854,12 @@ distinct from the RAG knowledge base itself.
 
 ### Frameworks & Tools
 
-* [Mem0](https://github.com/mem0ai/mem0) ⭐ 64,165 | 🐛 695 | 🌐 Python | 📅 2026-08-27
+* [Mem0](https://github.com/mem0ai/mem0) ⭐ 64,171 | 🐛 695 | 🌐 Python | 📅 2026-08-27
   * A universal memory layer for AI agents that extracts and stores salient
     facts from every conversation turn. Provides a unified API across
     graph-based, vector, and key-value backends; selected as the memory
     provider in the AWS Agent SDK.
-* [Zep / Graphiti](https://github.com/getzep/graphiti) ⭐ 30,338 | 🐛 492 | 🌐 Python | 📅 2026-08-26
+* [Zep / Graphiti](https://github.com/getzep/graphiti) ⭐ 30,339 | 🐛 492 | 🌐 Python | 📅 2026-08-26
   * Zep builds a temporal knowledge graph (Graphiti) where every stored fact
     carries a validity window. Conflicting facts are not stacked — the older
     assertion is automatically invalidated when new information supersedes it,
@@ -1028,13 +1028,13 @@ document collections.
 Reliable RAG requires measuring the **RAG Triad**: Context Relevance,
 Groundedness, and Answer Relevance.
 
-* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,615 | 🐛 530 | 🌐 TypeScript | 📅 2026-08-27
+* [promptfoo](https://github.com/promptfoo/promptfoo) ⭐ 24,617 | 🐛 530 | 🌐 TypeScript | 📅 2026-08-27
   <!-- verified: 2026-08-21 -->
   * Declarative, config-driven evals that run from the CLI and in CI/CD, so a
     prompt or model change is gated by assertions instead of eyeballed in a
     notebook. It also ships adversarial red-teaming and vulnerability scanning,
     covering the security half of RAG evaluation that quality metrics alone miss.
-* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 17,896 | 🐛 484 | 🌐 Python | 📅 2026-08-26
+* [DeepEval](https://github.com/confident-ai/deepeval) ⭐ 17,900 | 🐛 484 | 🌐 Python | 📅 2026-08-26
   * The "Pytest for LLMs". It offers a unit-testing framework for RAG,
     integrating seamlessly into CI/CD pipelines to catch regressions in retrieval
     quality or hallucination rates before deployment.
@@ -1123,16 +1123,16 @@ This approach scales better than human evaluation and provides consistent, autom
 
 ## Observability & Tracing
 
-* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 33,797 | 🐛 837 | 🌐 TypeScript | 📅 2026-08-27
+* [Langfuse](https://github.com/langfuse/langfuse) ⭐ 33,801 | 🐛 839 | 🌐 TypeScript | 📅 2026-08-27
   * An open-source engineering platform for LLM observability. It captures full
     execution traces (latency, token usage, cost) and allows for "Prompt
     Management," letting you version-control prompts decoupled from your code.
-* [Opik](https://github.com/comet-ml/opik) ⭐ 21,632 | 🐛 213 | 🌐 Python | 📅 2026-08-27
+* [Opik](https://github.com/comet-ml/opik) ⭐ 21,632 | 🐛 212 | 🌐 Python | 📅 2026-08-27
   * Comet's open-source platform for end-to-end LLM, RAG, and agent
     observability. Captures full execution traces, runs automated evaluations
     against built-in and custom metrics, and surfaces production dashboards
     for cost, latency, and quality — all in a single self-hostable service.
-* [Arize Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,210 | 🐛 921 | 🌐 Python | 📅 2026-08-27
+* [Arize Phoenix](https://github.com/Arize-ai/phoenix) ⭐ 11,212 | 🐛 922 | 🌐 Python | 📅 2026-08-27
   * A tool specifically designed for troubleshooting retrieval issues. It
     visualizes your embedding clusters and retrieved document rankings, helping
     you understand *why* the model retrieved irrelevant context.
@@ -1140,7 +1140,7 @@ This approach scales better than human evaluation and provides consistent, autom
   * An OpenTelemetry-native monitoring solution. If you already use
     Prometheus/Grafana or Datadog, OpenLIT drops into your existing stack to
     provide standardized LLM metrics (GPU usage, token throughput).
-* [Future AGI](https://github.com/future-agi/future-agi) ⭐ 1,839 | 🐛 774 | 🌐 Python | 📅 2026-08-27
+* [Future AGI](https://github.com/future-agi/future-agi) ⭐ 1,840 | 🐛 776 | 🌐 Python | 📅 2026-08-27
   <!-- verified: 2026-06-25 -->
   * Open-source platform for evaluating, tracing, and guardrailing RAG and agent
     apps. Captures OpenTelemetry-native traces, runs 70+ eval metrics and
@@ -1153,27 +1153,27 @@ This approach scales better than human evaluation and provides consistent, autom
 
 ## Deployment & Serving
 
-* [Ollama](https://github.com/ollama/ollama) ⭐ 179,542 | 🐛 3,801 | 🌐 Go | 📅 2026-08-27
+* [Ollama](https://github.com/ollama/ollama) ⭐ 179,544 | 🐛 3,801 | 🌐 Go | 📅 2026-08-27
   * The easiest way to run LLMs locally. While primarily for dev/local use, it
     bridges the gap between local testing and deployment by providing a standard
     API for open-weight models.
-* [vLLM](https://github.com/vllm-project/vllm) ⭐ 90,204 | 🐛 7,105 | 🌐 Python | 📅 2026-08-27
+* [vLLM](https://github.com/vllm-project/vllm) ⭐ 90,208 | 🐛 7,107 | 🌐 Python | 📅 2026-08-27
   * A high-performance inference engine known for PagedAttention. It maximizes
     GPU memory utilization, allowing you to serve larger models or handle higher
     concurrency with lower latency than standard Hugging Face Transformers.
     PagedAttention delivers 2–4× throughput improvement at the same latency SLO
     (\[3P] [Kwon et al., SOSP 2023](https://arxiv.org/abs/2309.06180)).
-* [Ray Serve](https://github.com/ray-project/ray) ⭐ 43,619 | 🐛 3,539 | 🌐 Python | 📅 2026-08-27
+* [Ray Serve](https://github.com/ray-project/ray) ⭐ 43,617 | 🐛 3,539 | 🌐 Python | 📅 2026-08-27
   * The industry standard for scaling Python ML workloads. It allows you to
     compose complex pipelines (e.g., Retriever + Reranker + LLM) where each
     component scales independently across a cluster of machines.
-* [Triton Inference Server](https://github.com/triton-inference-server/server) ⭐ 10,942 | 🐛 890 | 🌐 Python | 📅 2026-08-27
+* [Triton Inference Server](https://github.com/triton-inference-server/server) ⭐ 10,941 | 🐛 890 | 🌐 Python | 📅 2026-08-27
   <!-- verified: 2026-08-01 -->
   * NVIDIA's production inference server. Serves embedding, reranking, and
     generation models side by side from one process with dynamic batching and
     concurrent model execution, so a RAG pipeline's several models share GPUs
     instead of each holding their own.
-* [SkyPilot](https://github.com/skypilot-org/skypilot) ⭐ 10,528 | 🐛 388 | 🌐 Python | 📅 2026-08-27
+* [SkyPilot](https://github.com/skypilot-org/skypilot) ⭐ 10,527 | 🐛 389 | 🌐 Python | 📅 2026-08-27
   <!-- verified: 2026-08-01 -->
   * Runs inference and indexing jobs across clouds and Kubernetes from one
     spec, picking the cheapest available region and recovering from spot
@@ -1279,7 +1279,7 @@ different bottleneck — deploying them in combination yields compounding return
 
 ## Security & Compliance
 
-* [PrivateGPT](https://github.com/zylon-ai/private-gpt) ⭐ 57,473 | 🐛 6 | 🌐 Python | 📅 2026-08-27
+* [PrivateGPT](https://github.com/zylon-ai/private-gpt) ⭐ 57,474 | 🐛 5 | 🌐 Python | 📅 2026-08-27
   * A production-ready project that allows you to run RAG pipelines completely
     offline. It ensures full data privacy by keeping all ingestion and inference
     local, perfect for highly regulated industries.
@@ -1310,13 +1310,13 @@ and often layers caching on top — without requiring per-provider changes to ap
 
 | Tool                                                                                                  | Hosting           | Provider Support   | Caching           | Cost Tracking                | Best For                                        |
 | :---------------------------------------------------------------------------------------------------- | :---------------- | :----------------- | :---------------- | :--------------------------- | :---------------------------------------------- |
-| [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 57,382 \| 🐛 4,867 \| 🌐 Python \| 📅 2026-08-27      | Self-host / Cloud | 100+ providers     | Redis / S3 / Disk | Built-in                     | Multi-provider routing, OpenAI-compatible proxy |
+| [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 57,383 \| 🐛 4,868 \| 🌐 Python \| 📅 2026-08-27      | Self-host / Cloud | 100+ providers     | Redis / S3 / Disk | Built-in                     | Multi-provider routing, OpenAI-compatible proxy |
 | [Portkey](https://github.com/Portkey-AI/gateway) ⭐ 12,839 \| 🐛 248 \| 🌐 TypeScript \| 📅 2026-05-25 | Self-host / Cloud | 200+ providers     | Built-in          | Dashboard                    | Enterprise gateway with observability           |
 | [Helicone](https://github.com/Helicone/helicone) ⭐ 6,106 \| 🐛 152 \| 🌐 TypeScript \| 📅 2026-08-26  | Self-host / Cloud | OpenAI + Anthropic | Built-in          | Fine-grained token analytics | Cost optimization and prompt versioning         |
 | [OpenRouter](https://openrouter.ai/)                                                                  | Managed           | 100+ models        | —                 | Per-request                  | Unified model marketplace, no infra             |
 | [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/)                                | Managed (edge)    | Major providers    | Built-in          | Real-time analytics          | Edge-deployed, global routing                   |
 
-* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 57,382 | 🐛 4,867 | 🌐 Python | 📅 2026-08-27
+* [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 57,383 | 🐛 4,868 | 🌐 Python | 📅 2026-08-27
   * An OpenAI-compatible proxy and SDK wrapper supporting 100+ LLM providers
     (Anthropic, Bedrock, Azure, Gemini, local models via Ollama) with a single
     API surface. Includes gateway-level caching, per-route rate limits, fallback
@@ -1380,11 +1380,11 @@ before — not after — cost becomes a budget crisis.
 | Tool                                                                                                 | Focus                            | Best For                                                                                             |
 | :--------------------------------------------------------------------------------------------------- | :------------------------------- | :--------------------------------------------------------------------------------------------------- |
 | [tokencost](https://github.com/AgentOps-AI/tokencost) ⭐ 2,004 \| 🐛 31 \| 🌐 Python \| 📅 2025-09-05 | Token counting & cost lookup     | Pre-flight cost estimates across 400+ LLM models without a live API call                             |
-| [OpenMeter](https://github.com/openmeterio/openmeter) ⭐ 2,231 \| 🐛 74 \| 🌐 Go \| 📅 2026-08-27     | Usage metering & billing         | Per-user / per-feature metering with Stripe integration for usage-based billing                      |
-| [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 57,382 \| 🐛 4,867 \| 🌐 Python \| 📅 2026-08-27     | Gateway-level cost tracking      | Multi-provider cost dashboard + per-route spend limits (see [LLM Gateways](#llm-gateways--routing))  |
+| [OpenMeter](https://github.com/openmeterio/openmeter) ⭐ 2,231 \| 🐛 75 \| 🌐 Go \| 📅 2026-08-27     | Usage metering & billing         | Per-user / per-feature metering with Stripe integration for usage-based billing                      |
+| [LiteLLM](https://github.com/BerriAI/litellm) ⭐ 57,383 \| 🐛 4,868 \| 🌐 Python \| 📅 2026-08-27     | Gateway-level cost tracking      | Multi-provider cost dashboard + per-route spend limits (see [LLM Gateways](#llm-gateways--routing))  |
 | [Helicone](https://github.com/Helicone/helicone) ⭐ 6,106 \| 🐛 152 \| 🌐 TypeScript \| 📅 2026-08-26 | Observability + cost attribution | Fine-grained token analytics per user, team, or feature (see [LLM Gateways](#llm-gateways--routing)) |
 
-* [OpenMeter](https://github.com/openmeterio/openmeter) ⭐ 2,231 | 🐛 74 | 🌐 Go | 📅 2026-08-27
+* [OpenMeter](https://github.com/openmeterio/openmeter) ⭐ 2,231 | 🐛 75 | 🌐 Go | 📅 2026-08-27
   * An open-source usage metering and billing platform. Ingests usage events
     (token counts, API calls, compute seconds) and exposes per-customer,
     per-feature aggregates — with Stripe integration for usage-based billing.
@@ -1417,7 +1417,7 @@ and annotated examples that walk through the techniques described above end to e
 They are the fastest path from reading about a pattern to having it running in your
 own environment.
 
-* [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 29,245 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-08-26
+* [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 29,247 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-08-26
   * A comprehensive notebook series covering advanced RAG techniques end to end —
     from adaptive retrieval and hybrid search to corrective RAG, self-RAG, and
     agentic pipelines — with annotated, runnable code for each pattern.
