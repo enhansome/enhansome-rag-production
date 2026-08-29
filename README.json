@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LlamaIndex is the leading document agent and OCR platform",
+                "homepage": "https://developers.llamaindex.ai",
                 "id": 560704231,
                 "language": "Python",
-                "last_commit": "2026-08-28T04:01:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:43:47Z",
+                "open_issues": 670,
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51903
+                "stars": 51909,
+                "topics": [
+                  "agents",
+                  "application",
+                  "data",
+                  "fine-tuning",
+                  "framework",
+                  "llamaindex",
+                  "llm",
+                  "multi-agents",
+                  "rag",
+                  "vector-database"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -28,12 +44,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-28T11:55:00Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:20:17Z",
+                "open_issues": 431,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145184
+                "stars": 145216,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -44,12 +86,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build resilient agents.",
+                "homepage": "https://docs.langchain.com/oss/python/langgraph/",
                 "id": 676672661,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:15:28Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:36:39Z",
+                "open_issues": 722,
                 "owner": "langchain-ai",
                 "repo": "langgraph",
-                "stars": 40614
+                "stars": 40643,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -60,12 +126,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+                "homepage": "https://haystack.deepset.ai",
                 "id": 221654678,
                 "language": "Python",
-                "last_commit": "2026-08-28T08:33:27Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T14:26:57Z",
+                "open_issues": 110,
                 "owner": "deepset-ai",
                 "repo": "haystack",
-                "stars": 26348
+                "stars": 26352,
+                "topics": [
+                  "agent-framework",
+                  "agentic-ai",
+                  "agentic-rag",
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "context-engineering",
+                  "framework",
+                  "genai",
+                  "generative-ai",
+                  "information-retrieval",
+                  "large-language-models",
+                  "llm",
+                  "mcp",
+                  "multi-agent",
+                  "orchestration",
+                  "python",
+                  "rag",
+                  "retrieval-augmented-generation",
+                  "semantic-search"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
@@ -83,12 +175,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-28T11:55:00Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:20:17Z",
+                "open_issues": 431,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145184
+                "stars": 145216,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -99,12 +217,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+                "homepage": "https://ragflow.io",
                 "id": 730534580,
                 "language": "Go",
-                "last_commit": "2026-08-28T12:02:16Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T17:03:51Z",
+                "open_issues": 1723,
                 "owner": "infiniflow",
                 "repo": "ragflow",
-                "stars": 89491
+                "stars": 89551,
+                "topics": [
+                  "agent-harness",
+                  "agentic-ai",
+                  "agentic-retrieval",
+                  "agentic-search",
+                  "ai",
+                  "ai-agents",
+                  "context-engine",
+                  "context-engineering",
+                  "context-management",
+                  "harness-engineering",
+                  "knowledge-compilation",
+                  "llm-apps",
+                  "rag",
+                  "retrieval-augmented-generation"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -115,12 +253,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+                "homepage": "https://pathway.com",
                 "id": 571186647,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T05:31:40Z",
+                "open_issues": 35,
                 "owner": "pathwaycom",
                 "repo": "pathway",
-                "stars": 62376
+                "stars": 62374,
+                "topics": [
+                  "batch-processing",
+                  "data-analytics",
+                  "data-pipelines",
+                  "data-processing",
+                  "dataflow",
+                  "etl",
+                  "etl-framework",
+                  "iot-analytics",
+                  "kafka",
+                  "machine-learning-algorithms",
+                  "pathway",
+                  "python",
+                  "real-time",
+                  "rust",
+                  "stream-processing",
+                  "streaming",
+                  "time-series-analysis"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -131,12 +292,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LlamaIndex is the leading document agent and OCR platform",
+                "homepage": "https://developers.llamaindex.ai",
                 "id": 560704231,
                 "language": "Python",
-                "last_commit": "2026-08-28T04:01:49Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:43:47Z",
+                "open_issues": 670,
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51903
+                "stars": 51909,
+                "topics": [
+                  "agents",
+                  "application",
+                  "data",
+                  "fine-tuning",
+                  "framework",
+                  "llamaindex",
+                  "llm",
+                  "multi-agents",
+                  "rag",
+                  "vector-database"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -147,12 +324,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build resilient agents.",
+                "homepage": "https://docs.langchain.com/oss/python/langgraph/",
                 "id": 676672661,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:15:28Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:36:39Z",
+                "open_issues": 722,
                 "owner": "langchain-ai",
                 "repo": "langgraph",
-                "stars": 40614
+                "stars": 40643,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -163,12 +364,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSPy: The framework for programming—not prompting—language models",
+                "homepage": "https://dspy.ai",
                 "id": 587050620,
                 "language": "Python",
-                "last_commit": "2026-08-27T23:08:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:02:27Z",
+                "open_issues": 639,
                 "owner": "stanfordnlp",
                 "repo": "dspy",
-                "stars": 37630
+                "stars": 37641,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -179,12 +385,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, memory, and generation. Built for scalable agents, RAG, multimodal applications, semantic search, and conversational systems.",
+                "homepage": "https://haystack.deepset.ai",
                 "id": 221654678,
                 "language": "Python",
-                "last_commit": "2026-08-28T08:33:27Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T14:26:57Z",
+                "open_issues": 110,
                 "owner": "deepset-ai",
                 "repo": "haystack",
-                "stars": 26348
+                "stars": 26352,
+                "topics": [
+                  "agent-framework",
+                  "agentic-ai",
+                  "agentic-rag",
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "context-engineering",
+                  "framework",
+                  "genai",
+                  "generative-ai",
+                  "information-retrieval",
+                  "large-language-models",
+                  "llm",
+                  "mcp",
+                  "multi-agent",
+                  "orchestration",
+                  "python",
+                  "rag",
+                  "retrieval-augmented-generation",
+                  "semantic-search"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -195,12 +427,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+                "homepage": null,
                 "id": 756142546,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-11-07T01:02:44Z",
+                "open_issues": 123,
                 "owner": "SciPhi-AI",
                 "repo": "R2R",
-                "stars": 7977
+                "stars": 7978,
+                "topics": [
+                  "artificial-intelligence",
+                  "large-language-models",
+                  "python",
+                  "question-answering",
+                  "rag",
+                  "retrieval-augmented-generation",
+                  "retrieval-systems",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -211,12 +457,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+                "homepage": null,
                 "id": 672002598,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-08T09:25:18Z",
+                "open_issues": 78,
                 "owner": "weaviate",
                 "repo": "Verba",
-                "stars": 7711
+                "stars": 7711,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -227,12 +478,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+                "homepage": "https://cognita.truefoundry.com",
                 "id": 671064065,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-13T15:04:36Z",
+                "open_issues": 22,
                 "owner": "truefoundry",
                 "repo": "cognita",
-                "stars": 4418
+                "stars": 4418,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "application",
+                  "data",
+                  "deep-learning",
+                  "fine-tuning",
+                  "framework",
+                  "generative-ai",
+                  "llm",
+                  "llm-ops",
+                  "llmops",
+                  "machine-learning",
+                  "mlops",
+                  "model-deployment",
+                  "python",
+                  "rag",
+                  "retrieval-augmented-generation",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -243,12 +518,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more.",
+                "homepage": "https://agentset.ai",
                 "id": 945763259,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-16T13:11:34Z",
+                "open_issues": 14,
                 "owner": "agentset-ai",
                 "repo": "agentset",
-                "stars": 2076
+                "stars": 2078,
+                "topics": [
+                  "agentic-rag",
+                  "ai",
+                  "ai-agents",
+                  "ai-sdk",
+                  "chatbots",
+                  "embeddings",
+                  "genai",
+                  "llms",
+                  "memory",
+                  "memory-management",
+                  "rag",
+                  "vercel-ai-sdk"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
@@ -270,12 +563,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+            "homepage": "https://firecrawl.dev",
             "id": 787076358,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T10:33:57Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:10:04Z",
+            "open_issues": 559,
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 173441
+            "stars": 173710,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-crawler",
+              "ai-scraping",
+              "ai-search",
+              "crawler",
+              "data-extraction",
+              "html-to-markdown",
+              "llm",
+              "markdown",
+              "scraper",
+              "scraping",
+              "web-crawler",
+              "web-data",
+              "web-data-extraction",
+              "web-scraper",
+              "web-scraping",
+              "web-search",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -286,12 +604,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+            "homepage": "https://www.paddleocr.com",
             "id": 262296122,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T11:59:34Z",
+            "open_issues": 235,
             "owner": "PaddlePaddle",
             "repo": "PaddleOCR",
-            "stars": 88392
+            "stars": 88418,
+            "topics": [
+              "ai4science",
+              "chineseocr",
+              "document-parsing",
+              "document-translation",
+              "kie",
+              "ocr",
+              "paddleocr-vl",
+              "pdf-extractor-rag",
+              "pdf-parser",
+              "pdf2markdown",
+              "pp-ocr",
+              "pp-structure",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -302,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+            "homepage": "https://crawl4ai.com",
             "id": 798201435,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T07:39:29Z",
+            "open_issues": 173,
             "owner": "unclecode",
             "repo": "crawl4ai",
-            "stars": 79635
+            "stars": 79677,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -318,12 +660,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get your documents ready for gen AI",
+            "homepage": "https://docling-project.github.io/docling",
             "id": 826168160,
             "language": "Python",
-            "last_commit": "2026-08-28T12:25:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:20:13Z",
+            "open_issues": 979,
             "owner": "docling-project",
             "repo": "docling",
-            "stars": 65687
+            "stars": 65708,
+            "topics": [
+              "ai",
+              "convert",
+              "document-parser",
+              "document-parsing",
+              "documents",
+              "docx",
+              "html",
+              "markdown",
+              "pdf",
+              "pdf-converter",
+              "pdf-to-json",
+              "pdf-to-text",
+              "pptx",
+              "tables",
+              "xlsx"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -334,12 +697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert PDF to markdown + JSON quickly with high accuracy",
+            "homepage": "https://www.datalab.to",
             "id": 712111618,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T05:17:52Z",
+            "open_issues": 460,
             "owner": "datalab-to",
             "repo": "marker",
-            "stars": 39342
+            "stars": 39352,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -350,12 +718,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+            "homepage": "https://opendataloader.org",
             "id": 982587624,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:11:12Z",
+            "open_issues": 79,
             "owner": "opendataloader-project",
             "repo": "opendataloader-pdf",
-            "stars": 28843
+            "stars": 28852,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "ai",
+              "bounding-box",
+              "document-parsing",
+              "eaa",
+              "html",
+              "json",
+              "markdown",
+              "ocr",
+              "ocr-recognition",
+              "pdf",
+              "pdf-accessibility",
+              "pdf-converter",
+              "pdf-extraction",
+              "pdf-parser",
+              "pdf-ua",
+              "rag",
+              "tables",
+              "tagged-pdf"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -366,12 +760,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
+            "homepage": "https://www.unstructured.io/",
             "id": 541798154,
             "language": "HTML",
-            "last_commit": "2026-08-28T01:43:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:17:30Z",
+            "open_issues": 297,
             "owner": "Unstructured-IO",
             "repo": "unstructured",
-            "stars": 15356
+            "stars": 15360,
+            "topics": [
+              "data-pipelines",
+              "deep-learning",
+              "document-image-analysis",
+              "document-image-processing",
+              "document-parser",
+              "document-parsing",
+              "docx",
+              "donut",
+              "information-retrieval",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "ml",
+              "natural-language-processing",
+              "nlp",
+              "ocr",
+              "pdf",
+              "pdf-to-json",
+              "pdf-to-text",
+              "preprocessing"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -382,12 +802,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks",
+            "homepage": "https://omniparse.cognitivelab.in/",
             "id": 810449821,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-12T15:47:46Z",
+            "open_issues": 75,
             "owner": "adithya-s-k",
             "repo": "omniparse",
-            "stars": 7818
+            "stars": 7818,
+            "topics": [
+              "ingestion-api",
+              "ocr",
+              "omniparser",
+              "parse-server",
+              "parser-library",
+              "vision-transformer",
+              "web-crawler",
+              "whisper-api"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -398,12 +832,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Knowledge Agents and Management in the Cloud",
+            "homepage": "https://cloud.llamaindex.ai",
             "id": 751000531,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-18T19:09:10Z",
+            "open_issues": 365,
             "owner": "run-llama",
             "repo": "llama_cloud_services",
-            "stars": 4262
+            "stars": 4262,
+            "topics": [
+              "document",
+              "document-parser",
+              "document-parsing",
+              "docx-to-markdown",
+              "parsing",
+              "pdf",
+              "pdf-document-processor",
+              "pdf-to-excel",
+              "pdf-to-json",
+              "pdf-to-markdown",
+              "pdf-to-text",
+              "ppt-to-json",
+              "ppt-to-markdown",
+              "pptx",
+              "structured-data",
+              "tables"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -414,12 +870,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semark converts PDFs, Office files, HTML, and images into RAG-ready semantic Markdown using MinerU and VLM/LLM review, with chunks, source maps, and automatic document splitting.",
+            "homepage": null,
             "id": 1272043772,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T00:15:56Z",
+            "open_issues": 1,
             "owner": "KingsleyOWO",
             "repo": "Semark",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "documentation-tool",
+              "knowledge-base",
+              "llm-tools",
+              "markdown",
+              "mineru",
+              "ocr",
+              "ollama",
+              "pdf-document",
+              "pdf-parser",
+              "rag",
+              "rag-pipeline",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -430,12 +904,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pure TypeScript converters for 150+ file types to Markdown, including DOCX, PDF, PPTX, XLSX, iWork, HWP, and email. Runs in Node, Edge, and browsers.",
+            "homepage": "https://convert.mdgate.dev",
             "id": 1333760014,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T12:43:42Z",
+            "open_issues": 13,
             "owner": "mdgate",
             "repo": "converters",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "cloudflare-workers",
+              "document-converter",
+              "document-parser",
+              "docx",
+              "edge-runtime",
+              "llm",
+              "markdown",
+              "pdf",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -452,12 +942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-Art Embeddings, Retrieval, and Reranking",
+            "homepage": "https://www.sbert.net",
             "id": 198616978,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:14:09Z",
+            "open_issues": 1319,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19044
+            "stars": 19047,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -468,12 +963,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retrieval and Retrieval-augmented LLMs",
+            "homepage": "http://www.bge-model.com/",
             "id": 673596675,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:57:42Z",
+            "open_issues": 906,
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12098
+            "stars": 12098,
+            "topics": [
+              "embeddings",
+              "information-retrieval",
+              "llm",
+              "retrieval-augmented-generation",
+              "sentence-embeddings",
+              "text-semantic-similarity"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -484,12 +991,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient few-shot learning with Sentence Transformers",
+            "homepage": "https://hf.co/docs/setfit",
             "id": 508972059,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-26T10:31:59Z",
+            "open_issues": 163,
             "owner": "huggingface",
             "repo": "setfit",
-            "stars": 2784
+            "stars": 2784,
+            "topics": [
+              "few-shot-learning",
+              "nlp",
+              "sentence-transformers"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -500,12 +1016,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tevatron - Unified Document Retrieval Toolkit across Scale, Language, and Modality. Demo in SIGIR 2023, SIGIR 2025.",
+            "homepage": "http://tevatron.ai",
             "id": 404550703,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T19:40:38Z",
+            "open_issues": 57,
             "owner": "texttron",
             "repo": "tevatron",
-            "stars": 749
+            "stars": 749,
+            "topics": [
+              "dense-retrieval",
+              "dpr",
+              "flax",
+              "information-retrieval",
+              "jax",
+              "pytorch",
+              "question-answering",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -516,12 +1046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+            "homepage": null,
             "id": 737043169,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-17T12:45:38Z",
+            "open_issues": 97,
             "owner": "AnswerDotAI",
             "repo": "RAGatouille",
-            "stars": 3954
+            "stars": 3954,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -532,12 +1067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-Art Embeddings, Retrieval, and Reranking",
+            "homepage": "https://www.sbert.net",
             "id": 198616978,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:14:09Z",
+            "open_issues": 1319,
             "owner": "huggingface",
             "repo": "sentence-transformers",
-            "stars": 19044
+            "stars": 19047,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -548,12 +1088,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Retrieval and Retrieval-augmented LLMs",
+            "homepage": "http://www.bge-model.com/",
             "id": 673596675,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T02:57:42Z",
+            "open_issues": 906,
             "owner": "FlagOpen",
             "repo": "FlagEmbedding",
-            "stars": 12098
+            "stars": 12098,
+            "topics": [
+              "embeddings",
+              "information-retrieval",
+              "llm",
+              "retrieval-augmented-generation",
+              "sentence-embeddings",
+              "text-semantic-similarity"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -564,12 +1116,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient few-shot learning with Sentence Transformers",
+            "homepage": "https://hf.co/docs/setfit",
             "id": 508972059,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-26T10:31:59Z",
+            "open_issues": 163,
             "owner": "huggingface",
             "repo": "setfit",
-            "stars": 2784
+            "stars": 2784,
+            "topics": [
+              "few-shot-learning",
+              "nlp",
+              "sentence-transformers"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -580,12 +1141,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tevatron - Unified Document Retrieval Toolkit across Scale, Language, and Modality. Demo in SIGIR 2023, SIGIR 2025.",
+            "homepage": "http://tevatron.ai",
             "id": 404550703,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T19:40:38Z",
+            "open_issues": 57,
             "owner": "texttron",
             "repo": "tevatron",
-            "stars": 749
+            "stars": 749,
+            "topics": [
+              "dense-retrieval",
+              "dpr",
+              "flax",
+              "information-retrieval",
+              "jax",
+              "pytorch",
+              "question-answering",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -596,12 +1171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+            "homepage": null,
             "id": 737043169,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-17T12:45:38Z",
+            "open_issues": 97,
             "owner": "AnswerDotAI",
             "repo": "RAGatouille",
-            "stars": 3954
+            "stars": 3954,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -618,12 +1198,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search infrastructure for AI",
+            "homepage": "https://www.trychroma.com/",
             "id": 546206616,
             "language": "Rust",
-            "last_commit": "2026-08-27T00:18:55Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:09:25Z",
+            "open_issues": 812,
             "owner": "chroma-core",
             "repo": "chroma",
-            "stars": 29173
+            "stars": 29178,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "database",
+              "rust",
+              "rust-lang"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -634,12 +1226,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+            "homepage": "https://lancedb.com/docs",
             "id": 607441698,
             "language": "Rust",
-            "last_commit": "2026-08-28T11:01:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T18:57:02Z",
+            "open_issues": 603,
             "owner": "lancedb",
             "repo": "lancedb",
-            "stars": 11301
+            "stars": 11309,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "image-search",
+              "nearest-neighbor-search",
+              "recommender-system",
+              "search-engine",
+              "semantic-search",
+              "similarity-search",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -650,12 +1256,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+            "homepage": "https://milvus.io",
             "id": 208728772,
             "language": "Go",
-            "last_commit": "2026-08-28T10:03:27Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:01:27Z",
+            "open_issues": 1330,
             "owner": "milvus-io",
             "repo": "milvus",
-            "stars": 45849
+            "stars": 45858,
+            "topics": [
+              "anns",
+              "cloud-native",
+              "diskann",
+              "distributed",
+              "embedding-database",
+              "embedding-similarity",
+              "embedding-store",
+              "faiss",
+              "golang",
+              "hnsw",
+              "image-search",
+              "llm",
+              "nearest-neighbor-search",
+              "rag",
+              "vector-database",
+              "vector-search",
+              "vector-similarity",
+              "vector-store"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -666,12 +1296,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lakehouse native graph engine with git-style workflows",
+            "homepage": "https://omnigraph.dev",
             "id": 1207219415,
             "language": "Rust",
-            "last_commit": "2026-08-28T10:10:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:09:43Z",
+            "open_issues": 38,
             "owner": "ModernRelay",
             "repo": "omnigraph",
-            "stars": 1084
+            "stars": 1084,
+            "topics": [
+              "apache-arrow",
+              "context-graph",
+              "datafusion",
+              "graph-database",
+              "knowledge-graph",
+              "lakehouse",
+              "lance",
+              "mcp",
+              "rust",
+              "s3",
+              "versioning"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -682,12 +1329,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source vector similarity search for Postgres",
+            "homepage": null,
             "id": 359952601,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T03:47:50Z",
+            "open_issues": 14,
             "owner": "pgvector",
             "repo": "pgvector",
-            "stars": 22796
+            "stars": 22805,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "nearest-neighbor-search"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -698,12 +1353,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+            "homepage": "https://qdrant.tech",
             "id": 268163609,
             "language": "Rust",
-            "last_commit": "2026-08-28T12:34:52Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:05:57Z",
+            "open_issues": 718,
             "owner": "qdrant",
             "repo": "qdrant",
-            "stars": 34241
+            "stars": 34250,
+            "topics": [
+              "ai-search",
+              "ai-search-engine",
+              "embeddings-similarity",
+              "hnsw",
+              "hybrid-search",
+              "image-search",
+              "knn-algorithm",
+              "machine-learning",
+              "mlops",
+              "nearest-neighbor-search",
+              "neural-network",
+              "neural-search",
+              "recommender-system",
+              "search",
+              "search-engine",
+              "search-engines",
+              "similarity-search",
+              "vector-database",
+              "vector-search",
+              "vector-search-engine"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -714,12 +1395,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI search platform",
+            "homepage": "https://vespa.ai",
             "id": 60377070,
             "language": "Java",
-            "last_commit": "2026-08-28T12:18:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:16:42Z",
+            "open_issues": 255,
             "owner": "vespa-engine",
             "repo": "vespa",
-            "stars": 7073
+            "stars": 7073,
+            "topics": [
+              "ai",
+              "big-data",
+              "java",
+              "machine-learning",
+              "rag",
+              "search",
+              "search-engine",
+              "server",
+              "serving-recommendation",
+              "tensor",
+              "vector",
+              "vector-database",
+              "vector-search",
+              "vespa"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -730,12 +1431,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.",
+            "homepage": "https://weaviate.io/developers/weaviate/",
             "id": 55072677,
             "language": "Go",
-            "last_commit": "2026-08-28T12:39:37Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T04:39:38Z",
+            "open_issues": 691,
             "owner": "weaviate",
             "repo": "weaviate",
-            "stars": 16758
+            "stars": 16759,
+            "topics": [
+              "approximate-nearest-neighbor-search",
+              "generative-search",
+              "grpc",
+              "hnsw",
+              "hybrid-search",
+              "image-search",
+              "information-retrieval",
+              "mlops",
+              "nearest-neighbor-search",
+              "neural-search",
+              "recommender-system",
+              "search-engine",
+              "semantic-search",
+              "semantic-search-engine",
+              "similarity-search",
+              "vector-database",
+              "vector-search",
+              "vector-search-engine",
+              "vectors",
+              "weaviate"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -752,12 +1479,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦉 Data Versioning and ML Experiments",
+            "homepage": "https://dvc.org",
             "id": 83878269,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T18:51:06Z",
+            "open_issues": 201,
             "owner": "treeverse",
             "repo": "dvc",
-            "stars": 15850
+            "stars": 15850,
+            "topics": [
+              "ai",
+              "data-science",
+              "data-version-control",
+              "developer-tools",
+              "machine-learning",
+              "reproducibility",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -768,12 +1508,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lakeFS - Data version control for your data lake | Git for data",
+            "homepage": "https://docs.lakefs.io",
             "id": 208038454,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T13:41:32Z",
+            "open_issues": 439,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5499
+            "stars": 5499,
+            "topics": [
+              "apache-spark",
+              "apache-sparksql",
+              "aws-s3",
+              "azure-blob-storage",
+              "azure-storage",
+              "data-engineering",
+              "data-lake",
+              "data-quality",
+              "data-version-control",
+              "data-versioning",
+              "datalake",
+              "datalakes",
+              "git-for-data",
+              "go",
+              "golang",
+              "google-cloud-storage",
+              "hadoop-filesystem",
+              "lakefs",
+              "object-storage"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -784,12 +1549,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data-Centric Pipelines and Data Versioning",
+            "homepage": "https://www.pachyderm.com/",
             "id": 23653453,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-03T22:27:18Z",
+            "open_issues": 940,
             "owner": "pachyderm",
             "repo": "pachyderm",
-            "stars": 6308
+            "stars": 6308,
+            "topics": [
+              "analytics",
+              "big-data",
+              "containers",
+              "data-analysis",
+              "data-science",
+              "distributed-systems",
+              "docker",
+              "go",
+              "kubernetes",
+              "pachyderm"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -800,12 +1581,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightning fast data version control system for large repositories of data. Feels like git, pushes and pulls like oxen.",
+            "homepage": "https://oxen.ai",
             "id": 520273044,
             "language": "Rust",
-            "last_commit": "2026-08-28T05:46:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:53:26Z",
+            "open_issues": 20,
             "owner": "Oxen-AI",
             "repo": "Oxen",
-            "stars": 1182
+            "stars": 1182,
+            "topics": [
+              "data-version-control",
+              "data-versioning",
+              "git-for-data",
+              "machine-learning",
+              "python",
+              "rust",
+              "unstructured-data",
+              "vcs",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -816,12 +1612,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦉 Data Versioning and ML Experiments",
+            "homepage": "https://dvc.org",
             "id": 83878269,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T18:51:06Z",
+            "open_issues": 201,
             "owner": "treeverse",
             "repo": "dvc",
-            "stars": 15850
+            "stars": 15850,
+            "topics": [
+              "ai",
+              "data-science",
+              "data-version-control",
+              "developer-tools",
+              "machine-learning",
+              "reproducibility",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -837,24 +1646,65 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "lakeFS - Data version control for your data lake | Git for data",
+                "homepage": "https://docs.lakefs.io",
                 "id": 208038454,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T13:41:32Z",
+                "open_issues": 439,
                 "owner": "treeverse",
                 "repo": "lakeFS",
-                "stars": 5499
+                "stars": 5499,
+                "topics": [
+                  "apache-spark",
+                  "apache-sparksql",
+                  "aws-s3",
+                  "azure-blob-storage",
+                  "azure-storage",
+                  "data-engineering",
+                  "data-lake",
+                  "data-quality",
+                  "data-version-control",
+                  "data-versioning",
+                  "datalake",
+                  "datalakes",
+                  "git-for-data",
+                  "go",
+                  "golang",
+                  "google-cloud-storage",
+                  "hadoop-filesystem",
+                  "lakefs",
+                  "object-storage"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Data-Centric Pipelines and Data Versioning",
+            "homepage": "https://www.pachyderm.com/",
             "id": 23653453,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-03T22:27:18Z",
+            "open_issues": 940,
             "owner": "pachyderm",
             "repo": "pachyderm",
-            "stars": 6308
+            "stars": 6308,
+            "topics": [
+              "analytics",
+              "big-data",
+              "containers",
+              "data-analysis",
+              "data-science",
+              "distributed-systems",
+              "docker",
+              "go",
+              "kubernetes",
+              "pachyderm"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -865,12 +1715,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lakeFS - Data version control for your data lake | Git for data",
+            "homepage": "https://docs.lakefs.io",
             "id": 208038454,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T13:41:32Z",
+            "open_issues": 439,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5499
+            "stars": 5499,
+            "topics": [
+              "apache-spark",
+              "apache-sparksql",
+              "aws-s3",
+              "azure-blob-storage",
+              "azure-storage",
+              "data-engineering",
+              "data-lake",
+              "data-quality",
+              "data-version-control",
+              "data-versioning",
+              "datalake",
+              "datalakes",
+              "git-for-data",
+              "go",
+              "golang",
+              "google-cloud-storage",
+              "hadoop-filesystem",
+              "lakefs",
+              "object-storage"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -881,12 +1756,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightning fast data version control system for large repositories of data. Feels like git, pushes and pulls like oxen.",
+            "homepage": "https://oxen.ai",
             "id": 520273044,
             "language": "Rust",
-            "last_commit": "2026-08-28T05:46:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:53:26Z",
+            "open_issues": 20,
             "owner": "Oxen-AI",
             "repo": "Oxen",
-            "stars": 1182
+            "stars": 1182,
+            "topics": [
+              "data-version-control",
+              "data-versioning",
+              "git-for-data",
+              "machine-learning",
+              "python",
+              "rust",
+              "unstructured-data",
+              "vcs",
+              "version-control"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -903,12 +1793,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert documents to structured data effortlessly. Unstructured is open-source ETL solution for transforming complex documents into clean, structured formats for language models.  Visit our website to learn more about our enterprise grade Platform product for production grade workflows, partitioning, enrichments, chunking and embedding.",
+            "homepage": "https://www.unstructured.io/",
             "id": 541798154,
             "language": "HTML",
-            "last_commit": "2026-08-28T01:43:21Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:17:30Z",
+            "open_issues": 297,
             "owner": "Unstructured-IO",
             "repo": "unstructured",
-            "stars": 15356
+            "stars": 15360,
+            "topics": [
+              "data-pipelines",
+              "deep-learning",
+              "document-image-analysis",
+              "document-image-processing",
+              "document-parser",
+              "document-parsing",
+              "docx",
+              "donut",
+              "information-retrieval",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "ml",
+              "natural-language-processing",
+              "nlp",
+              "ocr",
+              "pdf",
+              "pdf-to-json",
+              "pdf-to-text",
+              "preprocessing"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -919,12 +1835,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines",
+            "homepage": "https://docs.chonkie.ai",
             "id": 956908445,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:50:39Z",
+            "open_issues": 49,
             "owner": "feyninc",
             "repo": "chonkie",
-            "stars": 4708
+            "stars": 4709,
+            "topics": [
+              "ai",
+              "chonkie",
+              "chunker",
+              "chunking-algorithm",
+              "llms",
+              "rag",
+              "retrieval-systems",
+              "semantic-chunker",
+              "similarity-search",
+              "splitting-algorithms",
+              "text-splitter"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -935,12 +1868,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, lightweight and easy-to-use Python library for splitting text into semantically meaningful chunks.",
+            "homepage": null,
             "id": 714508356,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-13T00:44:46Z",
+            "open_issues": 6,
             "owner": "isaacus-dev",
             "repo": "semchunk",
-            "stars": 664
+            "stars": 664,
+            "topics": [
+              "chunking",
+              "isaacus",
+              "nlp",
+              "python",
+              "semantic-chunking",
+              "splitting",
+              "text",
+              "text-chunking",
+              "text-splitting"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -957,12 +1905,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+            "homepage": "https://pageindex.ai",
             "id": 958531089,
             "language": "Python",
-            "last_commit": "2026-08-28T12:34:04Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:02:48Z",
+            "open_issues": 164,
             "owner": "VectifyAI",
             "repo": "PageIndex",
-            "stars": 35364
+            "stars": 35380,
+            "topics": [
+              "agentic-ai",
+              "agents",
+              "ai",
+              "ai-agents",
+              "context-engineering",
+              "information-retrieval",
+              "llm",
+              "rag",
+              "reasoning",
+              "retrieval",
+              "retrieval-augmented-generation",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -973,12 +1939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+            "homepage": null,
             "id": 737043169,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-17T12:45:38Z",
+            "open_issues": 97,
             "owner": "AnswerDotAI",
             "repo": "RAGatouille",
-            "stars": 3954
+            "stars": 3954,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -989,12 +1960,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lite & Super-fast re-ranking for your search & retrieval pipelines.  Supports SoTA Listwise and Pairwise reranking based on LLMs and  cross-encoders and more.  Created by Prithivi Da, open for PRs & Collaborations.",
+            "homepage": null,
             "id": 727268148,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-11T08:06:27Z",
+            "open_issues": 10,
             "owner": "PrithivirajDamodaran",
             "repo": "FlashRank",
-            "stars": 1002
+            "stars": 1002,
+            "topics": [
+              "cross-encoder",
+              "full-text-search",
+              "hybrid-search",
+              "lexical-search",
+              "rag",
+              "ranking",
+              "reranking",
+              "retrieval-augmented-generation",
+              "semantic-search",
+              "vector-database",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1005,12 +1993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PostgreSQL BM25S extension",
+            "homepage": null,
             "id": 1235093115,
             "language": "PLpgSQL",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T15:20:32Z",
+            "open_issues": 0,
             "owner": "Intelligent-Internet",
             "repo": "psql_bm25s",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1021,12 +2014,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+            "homepage": "https://arxiv.org/abs/2410.05779",
             "id": 866513204,
             "language": "Python",
-            "last_commit": "2026-08-28T12:40:55Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:42:19Z",
+            "open_issues": 213,
             "owner": "HKUDS",
             "repo": "LightRAG",
-            "stars": 39243
+            "stars": 39258,
+            "topics": [
+              "docling",
+              "genai",
+              "gpt",
+              "graphrag",
+              "knowledge-graph",
+              "large-language-models",
+              "llm",
+              "mineru",
+              "rag",
+              "ragas",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1037,12 +2047,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "homepage": "https://microsoft.github.io/graphrag/",
             "id": 778431525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:30:25Z",
+            "open_issues": 36,
             "owner": "microsoft",
             "repo": "graphrag",
-            "stars": 35715
+            "stars": 35728,
+            "topics": [
+              "gpt",
+              "gpt-4",
+              "gpt4",
+              "graphrag",
+              "llm",
+              "llms",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1053,12 +2076,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "homepage": "https://llm-graph-builder.neo4jlabs.com/",
             "id": 741989385,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T16:11:54Z",
+            "open_issues": 54,
             "owner": "neo4j-labs",
             "repo": "llm-graph-builder",
-            "stars": 5201
+            "stars": 5202,
+            "topics": [
+              "data-import",
+              "genai",
+              "graph",
+              "graph-rag",
+              "graph-search",
+              "graphdb",
+              "graphrag",
+              "knowledge-graph",
+              "langchain",
+              "neo4j",
+              "rag",
+              "unstructured-data",
+              "vectordb"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1069,12 +2111,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, easy-to-hack GraphRAG implementation",
+            "homepage": null,
             "id": 833512367,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-27T07:50:55Z",
+            "open_issues": 84,
             "owner": "gusye1234",
             "repo": "nano-graphrag",
-            "stars": 3976
+            "stars": 3976,
+            "topics": [
+              "gpt",
+              "gpt-4o",
+              "graphrag",
+              "learning-by-doing",
+              "llm",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1085,12 +2139,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+            "homepage": "https://docs.headroomlabs.ai/docs",
             "id": 1129940957,
             "language": "Python",
-            "last_commit": "2026-08-28T04:22:23Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:51:00Z",
+            "open_issues": 571,
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 67886
+            "stars": 67942,
+            "topics": [
+              "agent",
+              "ai",
+              "anthropic",
+              "claude-code",
+              "compression",
+              "context-engineering",
+              "context-window",
+              "cursor",
+              "fastapi",
+              "langchain",
+              "llm",
+              "mcp",
+              "openai",
+              "prompt-engineering",
+              "proxy",
+              "python",
+              "rag",
+              "token-optimization",
+              "tokens",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1101,12 +2181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. ",
+            "homepage": "https://llmlingua.com/",
             "id": 663368311,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-08T18:59:13Z",
+            "open_issues": 120,
             "owner": "microsoft",
             "repo": "LLMLingua",
-            "stars": 6609
+            "stars": 6610,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -1125,12 +2210,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+                "homepage": "https://ragflow.io",
                 "id": 730534580,
                 "language": "Go",
-                "last_commit": "2026-08-28T12:02:16Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T17:03:51Z",
+                "open_issues": 1723,
                 "owner": "infiniflow",
                 "repo": "ragflow",
-                "stars": 89491
+                "stars": 89551,
+                "topics": [
+                  "agent-harness",
+                  "agentic-ai",
+                  "agentic-retrieval",
+                  "agentic-search",
+                  "ai",
+                  "ai-agents",
+                  "context-engine",
+                  "context-engineering",
+                  "context-management",
+                  "harness-engineering",
+                  "knowledge-compilation",
+                  "llm-apps",
+                  "rag",
+                  "retrieval-augmented-generation"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1141,12 +2246,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A programming framework for agentic AI",
+                "homepage": "https://microsoft.github.io/autogen/",
                 "id": 680120071,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-04-15T11:59:09Z",
+                "open_issues": 992,
                 "owner": "microsoft",
                 "repo": "autogen",
-                "stars": 60670
+                "stars": 60680,
+                "topics": [
+                  "agentic",
+                  "agentic-agi",
+                  "agents",
+                  "ai",
+                  "autogen",
+                  "autogen-ecosystem",
+                  "chatgpt",
+                  "framework",
+                  "llm-agent",
+                  "llm-framework"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1157,12 +2278,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+                "homepage": "https://crewai.com",
                 "id": 710601088,
                 "language": "Python",
-                "last_commit": "2026-08-28T05:49:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:36:31Z",
+                "open_issues": 767,
                 "owner": "crewAIInc",
                 "repo": "crewAI",
-                "stars": 57733
+                "stars": 57770,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "aiagentframework",
+                  "llms"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1173,12 +2305,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build resilient agents.",
+                "homepage": "https://docs.langchain.com/oss/python/langgraph/",
                 "id": 676672661,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:15:28Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T16:36:39Z",
+                "open_issues": 722,
                 "owner": "langchain-ai",
                 "repo": "langgraph",
-                "stars": 40614
+                "stars": 40643,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
@@ -1202,12 +2358,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal memory layer for AI Agents",
+                "homepage": "https://mem0.ai",
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:44:04Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:02:50Z",
+                "open_issues": 703,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64247
+                "stars": 64281,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "application",
+                  "chatbots",
+                  "chatgpt",
+                  "genai",
+                  "llm",
+                  "long-term-memory",
+                  "memory",
+                  "memory-management",
+                  "python",
+                  "rag",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1218,12 +2394,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build Real-Time Knowledge Graphs for AI Agents",
+                "homepage": "https://help.getzep.com/graphiti",
                 "id": 840056306,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:57:29Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T13:11:19Z",
+                "open_issues": 484,
                 "owner": "getzep",
                 "repo": "graphiti",
-                "stars": 30374
+                "stars": 30387,
+                "topics": [
+                  "agents",
+                  "graph",
+                  "llms",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1234,12 +2420,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+                "homepage": "https://docs.letta.com/",
                 "id": 703411624,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T19:05:43Z",
+                "open_issues": 39,
                 "owner": "letta-ai",
                 "repo": "letta",
-                "stars": 24474
+                "stars": 24484,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "llm",
+                  "llm-agent"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1250,12 +2446,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://langchain-ai.github.io/langmem/",
                 "id": 920242883,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-11T00:18:37Z",
+                "open_issues": 63,
                 "owner": "langchain-ai",
                 "repo": "langmem",
-                "stars": 1629
+                "stars": 1631,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1266,12 +2467,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vestige gives AI agents sharp memory: a local-first Rust MCP server that reaches backward through time to find the quiet change, decision, or service that caused today’s failure, not the lookalike.",
+                "homepage": "https://github.com/samvallad33/vestige",
                 "id": 1141662059,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T05:28:19Z",
+                "open_issues": 13,
                 "owner": "samvallad33",
                 "repo": "vestige",
-                "stars": 613
+                "stars": 614,
+                "topics": [
+                  "ai-memory",
+                  "claude",
+                  "cognitive-science",
+                  "cursor",
+                  "embeddings",
+                  "fsrs",
+                  "local-first",
+                  "long-term-memory",
+                  "mcp",
+                  "mcp-server",
+                  "neuroscience",
+                  "onnx",
+                  "rust",
+                  "security",
+                  "spaced-repetition",
+                  "sqlite",
+                  "sveltekit",
+                  "threejs",
+                  "vscode",
+                  "webgpu"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
@@ -1293,12 +2520,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use late-interaction multi-modal models such as ColPali in just a few lines of code.",
+            "homepage": null,
             "id": 852492838,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-28T20:47:40Z",
+            "open_issues": 44,
             "owner": "AnswerDotAI",
             "repo": "byaldi",
-            "stars": 852
+            "stars": 852,
+            "topics": [
+              "colbert",
+              "colpali",
+              "multi-modal",
+              "nlp",
+              "rag",
+              "reranking",
+              "retrieval"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1309,12 +2549,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code used to train and run inference with the ColVision models, e.g. ColPali, ColQwen2, and ColSmol.",
+            "homepage": "https://huggingface.co/vidore",
             "id": 817877504,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:35:20Z",
+            "open_issues": 5,
             "owner": "illuin-tech",
             "repo": "colpali",
-            "stars": 2800
+            "stars": 2801,
+            "topics": [
+              "colpali",
+              "colqwen2",
+              "colsmol",
+              "information-retrieval",
+              "retrieval-augmented-generation",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1325,12 +2577,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ecommerce Search and Discovery - marqo.ai",
+            "homepage": "https://www.marqo.ai/",
             "id": 520096046,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-08T08:50:53Z",
+            "open_issues": 195,
             "owner": "marqo-ai",
             "repo": "marqo",
-            "stars": 5029
+            "stars": 5029,
+            "topics": [
+              "ecommerce",
+              "machine-learning",
+              "multi-modal",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1343,12 +2605,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ecommerce Search and Discovery - marqo.ai",
+                "homepage": "https://www.marqo.ai/",
                 "id": 520096046,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-08T08:50:53Z",
+                "open_issues": 195,
                 "owner": "marqo-ai",
                 "repo": "marqo",
-                "stars": 5029
+                "stars": 5029,
+                "topics": [
+                  "ecommerce",
+                  "machine-learning",
+                  "multi-modal",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1359,12 +2631,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code used to train and run inference with the ColVision models, e.g. ColPali, ColQwen2, and ColSmol.",
+                "homepage": "https://huggingface.co/vidore",
                 "id": 817877504,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T14:35:20Z",
+                "open_issues": 5,
                 "owner": "illuin-tech",
                 "repo": "colpali",
-                "stars": 2800
+                "stars": 2801,
+                "topics": [
+                  "colpali",
+                  "colqwen2",
+                  "colsmol",
+                  "information-retrieval",
+                  "retrieval-augmented-generation",
+                  "vision-language-model"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1375,12 +2659,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use late-interaction multi-modal models such as ColPali in just a few lines of code.",
+                "homepage": null,
                 "id": 852492838,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-28T20:47:40Z",
+                "open_issues": 44,
                 "owner": "AnswerDotAI",
                 "repo": "byaldi",
-                "stars": 852
+                "stars": 852,
+                "topics": [
+                  "colbert",
+                  "colpali",
+                  "multi-modal",
+                  "nlp",
+                  "rag",
+                  "reranking",
+                  "retrieval"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
@@ -1409,24 +2706,64 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+                    "homepage": "https://www.getwren.ai/en/open-core",
                     "id": 771350543,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T11:24:47Z",
+                    "open_issues": 324,
                     "owner": "Canner",
                     "repo": "WrenAI",
-                    "stars": 17416
+                    "stars": 17419,
+                    "topics": [
+                      "ai-agents",
+                      "bigquery",
+                      "business-intelligence",
+                      "charts",
+                      "clickhouse",
+                      "context-engineering",
+                      "dashboard",
+                      "databricks",
+                      "duckdb",
+                      "genbi",
+                      "generative-ai",
+                      "llm",
+                      "mcp",
+                      "postgresql",
+                      "rag",
+                      "semantic-layer",
+                      "snowflake",
+                      "sql",
+                      "text-to-sql",
+                      "text2sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T12:45:45.614Z"
                 }
               ],
               "repo_info": {
                 "archived": true,
+                "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.",
+                "homepage": "https://vanna.ai/docs/",
                 "id": 640317662,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-02T14:14:20Z",
+                "open_issues": 289,
                 "owner": "vanna-ai",
                 "repo": "vanna",
-                "stars": 23814
+                "stars": 23814,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "data-visualization",
+                  "database",
+                  "llm",
+                  "rag",
+                  "sql",
+                  "text-to-sql"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1437,12 +2774,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+                "homepage": "https://www.getwren.ai/en/open-core",
                 "id": 771350543,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:24:47Z",
+                "open_issues": 324,
                 "owner": "Canner",
                 "repo": "WrenAI",
-                "stars": 17416
+                "stars": 17419,
+                "topics": [
+                  "ai-agents",
+                  "bigquery",
+                  "business-intelligence",
+                  "charts",
+                  "clickhouse",
+                  "context-engineering",
+                  "dashboard",
+                  "databricks",
+                  "duckdb",
+                  "genbi",
+                  "generative-ai",
+                  "llm",
+                  "mcp",
+                  "postgresql",
+                  "rag",
+                  "semantic-layer",
+                  "snowflake",
+                  "sql",
+                  "text-to-sql",
+                  "text2sql"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
@@ -1464,12 +2827,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+            "homepage": "https://promptfoo.dev",
             "id": 633927609,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T08:19:00Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:53:58Z",
+            "open_issues": 540,
             "owner": "promptfoo",
             "repo": "promptfoo",
-            "stars": 24639
+            "stars": 24651,
+            "topics": [
+              "ci",
+              "ci-cd",
+              "cicd",
+              "evaluation",
+              "evaluation-framework",
+              "llm",
+              "llm-eval",
+              "llm-evaluation",
+              "llm-evaluation-framework",
+              "llmops",
+              "pentesting",
+              "prompt-engineering",
+              "prompt-testing",
+              "prompts",
+              "rag",
+              "red-teaming",
+              "testing",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1480,12 +2867,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The LLM Evaluation Framework",
+            "homepage": "https://deepeval.com",
             "id": 676829188,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T08:13:55Z",
+            "open_issues": 491,
             "owner": "confident-ai",
             "repo": "deepeval",
-            "stars": 17931
+            "stars": 17939,
+            "topics": [
+              "evaluation-framework",
+              "evaluation-metrics",
+              "llm-evaluation",
+              "llm-evaluation-framework",
+              "llm-evaluation-metrics",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1496,12 +2895,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supercharge Your LLM Application Evaluations 🚀",
+            "homepage": "https://docs.ragas.io",
             "id": 637924634,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-24T07:47:19Z",
+            "open_issues": 579,
             "owner": "vibrantlabsai",
             "repo": "ragas",
-            "stars": 15516
+            "stars": 15524,
+            "topics": [
+              "evaluation",
+              "llm",
+              "llmops"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1512,12 +2920,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evaluation and Tracking for LLM Experiments and AI Agents",
+            "homepage": "https://www.trulens.org/",
             "id": 309504885,
             "language": "Python",
-            "last_commit": "2026-08-27T14:37:29Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:53:42Z",
+            "open_issues": 61,
             "owner": "truera",
             "repo": "trulens",
-            "stars": 3526
+            "stars": 3526,
+            "topics": [
+              "agent-evaluation",
+              "agentops",
+              "ai-agents",
+              "ai-monitoring",
+              "ai-observability",
+              "evals",
+              "explainable-ml",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "machine-learning",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1528,12 +2955,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmark 9 retrieval architectures (vector, contextual, QnA, knowledge graph, hybrid, RAPTOR, PageIndex, BM25, rerank) on your own docs. Automated hyperparameter search with bootstrap CIs and significance tests.",
+            "homepage": "https://pypi.org/project/kb-arena/",
             "id": 1182030516,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-06T16:40:27Z",
+            "open_issues": 1,
             "owner": "xmpuspus",
             "repo": "kb-arena",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "benchmark",
+              "bpref",
+              "chromadb",
+              "cli",
+              "document-retrieval",
+              "evaluation",
+              "graphrag",
+              "hybrid-search",
+              "hyperparameter-optimization",
+              "knowledge-graph",
+              "llm",
+              "ndcg",
+              "neo4j",
+              "python",
+              "rag",
+              "rag-evaluation",
+              "retrieval",
+              "retrieval-augmented-generation",
+              "statistical-significance",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1544,12 +2997,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch fabricated RAG citations before they reach the user: a zero-token verbatim gate + a burden-of-proof judge, framework-agnostic.",
+            "homepage": "https://tonydzi.github.io/verbatim-citation-gate/",
             "id": 1310736266,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T15:14:54Z",
+            "open_issues": 3,
             "owner": "tonydzi",
             "repo": "verbatim-citation-gate",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "agent-skills",
+              "ai-agents",
+              "ai-safety",
+              "citations",
+              "claude-code",
+              "claude-skills",
+              "faithfulness",
+              "grounding",
+              "guardrails",
+              "hallucination",
+              "hallucination-detection",
+              "llm",
+              "llm-evaluation",
+              "llmops",
+              "nlp",
+              "python",
+              "rag",
+              "rag-evaluation",
+              "retrieval-augmented-generation",
+              "trustworthy-ai"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1562,12 +3041,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evaluate your LLM's response with Prometheus and GPT4 💯",
+                "homepage": null,
                 "id": 788574052,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-25T03:58:37Z",
+                "open_issues": 13,
                 "owner": "prometheus-eval",
                 "repo": "prometheus-eval",
-                "stars": 1107
+                "stars": 1107,
+                "topics": [
+                  "evaluation",
+                  "gpt4",
+                  "litellm",
+                  "llm",
+                  "llm-as-a-judge",
+                  "llm-as-evaluator",
+                  "llmops",
+                  "python",
+                  "vllm"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1578,12 +3072,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoEvals is a tool for quickly and easily evaluating AI model outputs using best practices.",
+                "homepage": null,
                 "id": 664963846,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-29T20:54:43Z",
+                "open_issues": 23,
                 "owner": "braintrustdata",
                 "repo": "autoevals",
-                "stars": 1011
+                "stars": 1011,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1594,12 +3093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated Evaluation of RAG Systems",
+                "homepage": "https://ares-ai.vercel.app/",
                 "id": 697100198,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-28T11:25:50Z",
+                "open_issues": 22,
                 "owner": "stanford-futuredata",
                 "repo": "ARES",
-                "stars": 733
+                "stars": 733,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
@@ -1621,12 +3125,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+            "homepage": "https://langfuse.com",
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:35:11Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:13:21Z",
+            "open_issues": 860,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33857
+            "stars": 33872,
+            "topics": [
+              "analytics",
+              "autogen",
+              "evaluation",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "observability",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "self-hosted",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1637,12 +3166,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+            "homepage": "https://www.comet.com/docs/opik/",
             "id": 638951438,
             "language": "Python",
-            "last_commit": "2026-08-28T12:45:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:16:26Z",
+            "open_issues": 213,
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 21648
+            "stars": 21659,
+            "topics": [
+              "evaluation",
+              "hacktoberfest",
+              "hacktoberfest2025",
+              "langchain",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1653,12 +3201,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Observability & Evaluation",
+            "homepage": "https://arize.com/docs/phoenix",
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-28T02:19:19Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:14:39Z",
+            "open_issues": 916,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11223
+            "stars": 11229,
+            "topics": [
+              "agents",
+              "ai-monitoring",
+              "ai-observability",
+              "aiengineering",
+              "anthropic",
+              "datasets",
+              "evals",
+              "langchain",
+              "llamaindex",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "smolagents"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1669,12 +3239,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, VectorDBs, Agent Frameworks and GPUs.",
+            "homepage": "https://docs.openlit.io",
             "id": 747319327,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T05:34:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T16:59:03Z",
+            "open_issues": 55,
             "owner": "openlit",
             "repo": "openlit",
-            "stars": 2720
+            "stars": 2721,
+            "topics": [
+              "ai-observability",
+              "amd-gpu",
+              "clickhouse",
+              "distributed-tracing",
+              "genai",
+              "gpu-monitoring",
+              "grafana",
+              "langchain",
+              "llmops",
+              "llms",
+              "metrics",
+              "monitoring-tool",
+              "nvidia-smi",
+              "observability",
+              "open-source",
+              "openai",
+              "opentelemetry",
+              "otlp",
+              "python",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1685,12 +3281,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
+            "homepage": "https://futureagi.com",
             "id": 1219087723,
             "language": "Python",
-            "last_commit": "2026-08-28T12:41:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:45:12Z",
+            "open_issues": 776,
             "owner": "future-agi",
             "repo": "future-agi",
-            "stars": 1856
+            "stars": 1865,
+            "topics": [
+              "ai-agents",
+              "ai-evals",
+              "ai-gateway",
+              "ai-optimization",
+              "ai-simulations",
+              "evaluation-framework",
+              "guardrails",
+              "hallucination-detection",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "model-evaluation",
+              "observability",
+              "opentelemetry",
+              "rag",
+              "rag-evaluation",
+              "simulation",
+              "telemetry",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -1707,12 +3329,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+            "homepage": "https://ollama.com",
             "id": 658928958,
             "language": "Go",
-            "last_commit": "2026-08-28T00:03:45Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:47:58Z",
+            "open_issues": 3832,
             "owner": "ollama",
             "repo": "ollama",
-            "stars": 179624
+            "stars": 179675,
+            "topics": [
+              "deepseek",
+              "gemma",
+              "gemma3",
+              "glm",
+              "go",
+              "golang",
+              "gpt-oss",
+              "llama",
+              "llama3",
+              "llm",
+              "llms",
+              "minimax",
+              "mistral",
+              "ollama",
+              "qwen"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1723,12 +3366,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "homepage": "https://vllm.ai",
             "id": 599547518,
             "language": "Python",
-            "last_commit": "2026-08-28T10:28:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:11:28Z",
+            "open_issues": 7153,
             "owner": "vllm-project",
             "repo": "vllm",
-            "stars": 90303
+            "stars": 90356,
+            "topics": [
+              "amd",
+              "blackwell",
+              "cuda",
+              "deepseek",
+              "deepseek-v3",
+              "gpt",
+              "gpt-oss",
+              "inference",
+              "kimi",
+              "llama",
+              "llm",
+              "llm-serving",
+              "model-serving",
+              "moe",
+              "openai",
+              "pytorch",
+              "qwen",
+              "qwen3",
+              "tpu",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1739,12 +3408,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+            "homepage": "https://ray.io",
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-28T05:06:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:52:53Z",
+            "open_issues": 3536,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43636
+            "stars": 43639,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "deployment",
+              "distributed",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "large-language-models",
+              "llm",
+              "llm-inference",
+              "llm-serving",
+              "machine-learning",
+              "optimization",
+              "parallel",
+              "python",
+              "pytorch",
+              "ray",
+              "reinforcement-learning",
+              "rllib",
+              "serving",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1755,12 +3450,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution. ",
+            "homepage": "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html",
             "id": 151636194,
             "language": "Python",
-            "last_commit": "2026-08-28T06:22:20Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T15:51:05Z",
+            "open_issues": 888,
             "owner": "triton-inference-server",
             "repo": "server",
-            "stars": 10947
+            "stars": 10948,
+            "topics": [
+              "cloud",
+              "datacenter",
+              "deep-learning",
+              "edge",
+              "gpu",
+              "inference",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1771,12 +3479,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
+            "homepage": "https://skypilot.ai/",
             "id": 395140743,
             "language": "Python",
-            "last_commit": "2026-08-28T12:34:03Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:02:44Z",
+            "open_issues": 397,
             "owner": "skypilot-org",
             "repo": "skypilot",
-            "stars": 10533
+            "stars": 10534,
+            "topics": [
+              "cloud-computing",
+              "cloud-management",
+              "cost-optimization",
+              "deep-learning",
+              "distributed-training",
+              "gpu",
+              "hyperparameter-tuning",
+              "job-queue",
+              "job-scheduler",
+              "llm-serving",
+              "llm-training",
+              "machine-learning",
+              "ml-infrastructure",
+              "ml-platform",
+              "mlops",
+              "multicloud",
+              "slurm",
+              "spot-instances",
+              "tpu"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1787,12 +3520,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+            "homepage": "https://bentoml.com",
             "id": 178976529,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T09:19:45Z",
+            "open_issues": 209,
             "owner": "bentoml",
             "repo": "BentoML",
-            "stars": 8811
+            "stars": 8813,
+            "topics": [
+              "ai-inference",
+              "deep-learning",
+              "generative-ai",
+              "inference-platform",
+              "llm",
+              "llm-inference",
+              "llm-serving",
+              "llmops",
+              "machine-learning",
+              "ml-engineering",
+              "mlops",
+              "model-inference-service",
+              "model-serving",
+              "multimodal",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1803,12 +3557,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+            "homepage": "https://kserve.github.io/website/",
             "id": 178075572,
             "language": "Go",
-            "last_commit": "2026-08-27T20:03:30Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:12:58Z",
+            "open_issues": 204,
             "owner": "kserve",
             "repo": "kserve",
-            "stars": 5838
+            "stars": 5841,
+            "topics": [
+              "artificial-intelligence",
+              "cncf",
+              "genai",
+              "hacktoberfest",
+              "istio",
+              "k8s",
+              "knative",
+              "kserve",
+              "kubeflow",
+              "kubernetes",
+              "llm-inference",
+              "machine-learning",
+              "mlops",
+              "model-interpretability",
+              "model-serving",
+              "pytorch",
+              "service-mesh",
+              "tensorflow",
+              "vllm",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -1825,12 +3605,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic cache for LLMs. Fully integrated with LangChain and llama_index. ",
+            "homepage": "https://gptcache.readthedocs.io",
             "id": 618276831,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-11T09:04:36Z",
+            "open_issues": 97,
             "owner": "zilliztech",
             "repo": "GPTCache",
-            "stars": 8172
+            "stars": 8172,
+            "topics": [
+              "aigc",
+              "autogpt",
+              "babyagi",
+              "chatbot",
+              "chatgpt",
+              "chatgpt-api",
+              "dolly",
+              "gpt",
+              "langchain",
+              "llama",
+              "llama-index",
+              "llm",
+              "memcache",
+              "milvus",
+              "openai",
+              "redis",
+              "semantic-search",
+              "similarity-search",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1841,12 +3646,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+            "homepage": "https://docs.redisvl.com",
             "id": 561914940,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:47:51Z",
+            "open_issues": 54,
             "owner": "redis",
             "repo": "redis-vl-python",
-            "stars": 424
+            "stars": 424,
+            "topics": [
+              "anthropic",
+              "embedding",
+              "huggingface",
+              "large-language-models",
+              "llm",
+              "llmcache",
+              "mcp",
+              "openai",
+              "python",
+              "redis",
+              "redis-search",
+              "retrieval-augmented-generation",
+              "search",
+              "semantic-cache",
+              "vector-database",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1859,12 +3686,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantic cache for LLMs. Fully integrated with LangChain and llama_index. ",
+                "homepage": "https://gptcache.readthedocs.io",
                 "id": 618276831,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-11T09:04:36Z",
+                "open_issues": 97,
                 "owner": "zilliztech",
                 "repo": "GPTCache",
-                "stars": 8172
+                "stars": 8172,
+                "topics": [
+                  "aigc",
+                  "autogpt",
+                  "babyagi",
+                  "chatbot",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "dolly",
+                  "gpt",
+                  "langchain",
+                  "llama",
+                  "llama-index",
+                  "llm",
+                  "memcache",
+                  "milvus",
+                  "openai",
+                  "redis",
+                  "semantic-search",
+                  "similarity-search",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             },
@@ -1875,12 +3727,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+                "homepage": "https://docs.redisvl.com",
                 "id": 561914940,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:47:51Z",
+                "open_issues": 54,
                 "owner": "redis",
                 "repo": "redis-vl-python",
-                "stars": 424
+                "stars": 424,
+                "topics": [
+                  "anthropic",
+                  "embedding",
+                  "huggingface",
+                  "large-language-models",
+                  "llm",
+                  "llmcache",
+                  "mcp",
+                  "openai",
+                  "python",
+                  "redis",
+                  "redis-search",
+                  "retrieval-augmented-generation",
+                  "search",
+                  "semantic-cache",
+                  "vector-database",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-28T12:45:45.614Z"
             }
@@ -1902,12 +3776,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
+            "homepage": "https://www.zylon.ai/private-gpt",
             "id": 635240594,
             "language": "Python",
-            "last_commit": "2026-08-28T12:41:47Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T13:46:41Z",
+            "open_issues": 4,
             "owner": "zylon-ai",
             "repo": "private-gpt",
-            "stars": 57483
+            "stars": 57482,
+            "topics": [
+              "ai",
+              "ai-tools",
+              "on-premise"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1918,12 +3801,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+            "homepage": "https://presidio.dataprivacystack.org",
             "id": 132129752,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:35:40Z",
+            "open_issues": 108,
             "owner": "data-privacy-stack",
             "repo": "presidio",
-            "stars": 10665
+            "stars": 10670,
+            "topics": [
+              "anonymization",
+              "data-anonymization",
+              "data-masking",
+              "data-obfuscation",
+              "data-privacy",
+              "data-redaction",
+              "de-identification",
+              "guardrails",
+              "image-redactor",
+              "named-entity-recognition",
+              "nlp",
+              "personally-identifiable-information",
+              "phi",
+              "pii",
+              "pii-detection",
+              "privacy",
+              "python",
+              "sensitive-data",
+              "spacy",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1934,12 +3843,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+            "homepage": "https://docs.nvidia.com/nemo/guardrails/latest/index.html",
             "id": 629494390,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T16:40:49Z",
+            "open_issues": 205,
             "owner": "NVIDIA-NeMo",
             "repo": "Guardrails",
-            "stars": 7025
+            "stars": 7025,
+            "topics": [
+              "agents",
+              "generative-ai",
+              "guardrails",
+              "llm-safety",
+              "llm-security",
+              "llms",
+              "nvidia",
+              "python",
+              "safety"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1950,12 +3874,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Security Toolkit for LLM Interactions",
+            "homepage": "https://protectai.github.io/llm-guard/",
             "id": 671629770,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T23:58:40Z",
+            "open_issues": 40,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3205
+            "stars": 3205,
+            "topics": [
+              "adversarial-machine-learning",
+              "chatgpt",
+              "large-language-models",
+              "llm",
+              "llm-security",
+              "llmops",
+              "prompt-engineering",
+              "prompt-injection",
+              "security-tools",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -1972,12 +3912,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+            "homepage": "https://docs.litellm.ai/docs/",
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-28T09:58:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:09:51Z",
+            "open_issues": 4854,
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57470
+            "stars": 57507,
+            "topics": [
+              "ai-gateway",
+              "anthropic",
+              "azure-openai",
+              "bedrock",
+              "gateway",
+              "langchain",
+              "litellm",
+              "llm",
+              "llm-gateway",
+              "llmops",
+              "mcp-gateway",
+              "openai",
+              "openai-proxy",
+              "rust",
+              "rust-ai",
+              "vertex-ai"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -1988,12 +3950,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+            "homepage": "https://portkey.ai/features/ai-gateway",
             "id": 682080300,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-25T13:54:51Z",
+            "open_issues": 249,
             "owner": "Portkey-AI",
             "repo": "gateway",
-            "stars": 12841
+            "stars": 12848,
+            "topics": [
+              "ai-gateway",
+              "gateway",
+              "generative-ai",
+              "hacktoberfest",
+              "langchain",
+              "llm",
+              "llm-gateway",
+              "llmops",
+              "llms",
+              "mcp",
+              "mcp-client",
+              "mcp-gateway",
+              "mcp-servers",
+              "model-router",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2004,12 +3987,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+            "homepage": "https://www.helicone.ai",
             "id": 595832198,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:04:40Z",
+            "open_issues": 155,
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6106
+            "stars": 6109,
+            "topics": [
+              "agent-monitoring",
+              "analytics",
+              "evaluation",
+              "gpt",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-cost",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2020,12 +4028,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+            "homepage": "https://docs.litellm.ai/docs/",
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-28T09:58:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:09:51Z",
+            "open_issues": 4854,
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57470
+            "stars": 57507,
+            "topics": [
+              "ai-gateway",
+              "anthropic",
+              "azure-openai",
+              "bedrock",
+              "gateway",
+              "langchain",
+              "litellm",
+              "llm",
+              "llm-gateway",
+              "llmops",
+              "mcp-gateway",
+              "openai",
+              "openai-proxy",
+              "rust",
+              "rust-ai",
+              "vertex-ai"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2036,12 +4066,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A blazing fast AI Gateway with integrated guardrails. Route to 1,600+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.",
+            "homepage": "https://portkey.ai/features/ai-gateway",
             "id": 682080300,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-25T13:54:51Z",
+            "open_issues": 249,
             "owner": "Portkey-AI",
             "repo": "gateway",
-            "stars": 12841
+            "stars": 12848,
+            "topics": [
+              "ai-gateway",
+              "gateway",
+              "generative-ai",
+              "hacktoberfest",
+              "langchain",
+              "llm",
+              "llm-gateway",
+              "llmops",
+              "llms",
+              "mcp",
+              "mcp-client",
+              "mcp-gateway",
+              "mcp-servers",
+              "model-router",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2052,12 +4103,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+            "homepage": "https://www.helicone.ai",
             "id": 595832198,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:04:40Z",
+            "open_issues": 155,
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6106
+            "stars": 6109,
+            "topics": [
+              "agent-monitoring",
+              "analytics",
+              "evaluation",
+              "gpt",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-cost",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -2074,12 +4150,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy token price estimates for 400+ LLMs. TokenOps.",
+            "homepage": "https://agentops.ai",
             "id": 726692169,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-05T08:10:10Z",
+            "open_issues": 31,
             "owner": "AgentOps-AI",
             "repo": "tokencost",
-            "stars": 2004
+            "stars": 2004,
+            "topics": [
+              "analytics",
+              "claude",
+              "large-language-models",
+              "llm",
+              "observability",
+              "openai",
+              "price",
+              "price-tracker",
+              "token",
+              "tokenization"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2090,12 +4182,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.",
+            "homepage": "https://openmeter.io",
             "id": 650344440,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:55:13Z",
+            "open_issues": 77,
             "owner": "openmeterio",
             "repo": "openmeter",
-            "stars": 2231
+            "stars": 2232,
+            "topics": [
+              "analytics",
+              "billing",
+              "clickhouse",
+              "cost",
+              "finops",
+              "fintech",
+              "golang",
+              "kafka",
+              "metering",
+              "payment",
+              "pricing",
+              "stripe",
+              "usage",
+              "usage-based-billing",
+              "usage-based-pricing"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2106,12 +4219,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+            "homepage": "https://docs.litellm.ai/docs/",
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-28T09:58:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:09:51Z",
+            "open_issues": 4854,
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57470
+            "stars": 57507,
+            "topics": [
+              "ai-gateway",
+              "anthropic",
+              "azure-openai",
+              "bedrock",
+              "gateway",
+              "langchain",
+              "litellm",
+              "llm",
+              "llm-gateway",
+              "llmops",
+              "mcp-gateway",
+              "openai",
+              "openai-proxy",
+              "rust",
+              "rust-ai",
+              "vertex-ai"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2122,12 +4257,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓",
+            "homepage": "https://www.helicone.ai",
             "id": 595832198,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T00:04:40Z",
+            "open_issues": 155,
             "owner": "Helicone",
             "repo": "helicone",
-            "stars": 6106
+            "stars": 6109,
+            "topics": [
+              "agent-monitoring",
+              "analytics",
+              "evaluation",
+              "gpt",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-cost",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2138,12 +4298,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Metering and Billing for AI, API and DevOps. Collect and aggregate millions of usage events in real-time and enable usage-based billing.",
+            "homepage": "https://openmeter.io",
             "id": 650344440,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:55:13Z",
+            "open_issues": 77,
             "owner": "openmeterio",
             "repo": "openmeter",
-            "stars": 2231
+            "stars": 2232,
+            "topics": [
+              "analytics",
+              "billing",
+              "clickhouse",
+              "cost",
+              "finops",
+              "fintech",
+              "golang",
+              "kafka",
+              "metering",
+              "payment",
+              "pricing",
+              "stripe",
+              "usage",
+              "usage-based-billing",
+              "usage-based-pricing"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2154,12 +4335,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy token price estimates for 400+ LLMs. TokenOps.",
+            "homepage": "https://agentops.ai",
             "id": 726692169,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-05T08:10:10Z",
+            "open_issues": 31,
             "owner": "AgentOps-AI",
             "repo": "tokencost",
-            "stars": 2004
+            "stars": 2004,
+            "topics": [
+              "analytics",
+              "claude",
+              "large-language-models",
+              "llm",
+              "observability",
+              "openai",
+              "price",
+              "price-tracker",
+              "token",
+              "tokenization"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -2176,12 +4373,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+            "homepage": "https://diamant-ai.com",
             "id": 828268839,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-28T12:03:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T21:05:20Z",
+            "open_issues": 5,
             "owner": "NirDiamant",
             "repo": "RAG_Techniques",
-            "stars": 29260
+            "stars": 29264,
+            "topics": [
+              "agentic-rag",
+              "ai",
+              "embeddings",
+              "generative-ai",
+              "gpt",
+              "langchain",
+              "llama-index",
+              "llm",
+              "llms",
+              "machine-learning",
+              "nlp",
+              "openai",
+              "python",
+              "rag",
+              "retrieval-augmented-generation",
+              "semantic-search",
+              "tutorials",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2192,12 +4413,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs",
+            "homepage": null,
             "id": 658219396,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T11:29:16Z",
+            "open_issues": 4,
             "owner": "lancedb",
             "repo": "vectordb-recipes",
-            "stars": 974
+            "stars": 974,
+            "topics": [
+              "agents",
+              "ai",
+              "deep-learning",
+              "embeddings",
+              "fine-tuning",
+              "gpt",
+              "gpt-4-vision",
+              "lancedb",
+              "langchain",
+              "llama-index",
+              "llms",
+              "machine-learning",
+              "multimodal",
+              "multimodal-ai",
+              "openai",
+              "rag",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         },
@@ -2208,12 +4452,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+            "homepage": "https://diamantai.substack.com/",
             "id": 1230280405,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:01:14Z",
+            "open_issues": 2,
             "owner": "NirDiamant",
             "repo": "Agent_Memory_Techniques",
-            "stars": 936
+            "stars": 939,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "anthropic",
+              "episodic-memory",
+              "generative-ai",
+              "graphiti",
+              "knowledge-graph",
+              "langchain",
+              "letta",
+              "llm",
+              "llm-agents",
+              "llm-memory",
+              "mem0",
+              "memgpt",
+              "openai",
+              "python",
+              "rag",
+              "semantic-memory",
+              "vector-database",
+              "zep"
+            ]
           },
           "first_seen": "2026-08-28T12:45:45.614Z"
         }
@@ -2222,15 +4492,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:45:45.614Z",
+    "last_updated": "2026-08-29T04:53:36.828Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.",
+      "homepage": "https://yigtwxx.github.io/awesome-rag-production/",
       "id": 1119405225,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-26T16:40:40Z",
+      "open_issues": 2,
       "owner": "Yigtwxx",
       "repo": "awesome-rag-production",
-      "stars": 208
+      "stars": 209,
+      "topics": [
+        "ai",
+        "ai-engineering",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "curated-list",
+        "embeddings",
+        "generative-ai",
+        "langchain",
+        "large-language-models",
+        "list",
+        "llm",
+        "llmops",
+        "machine-learning",
+        "mlops",
+        "production",
+        "python",
+        "rag",
+        "retrieval-augmented-generation",
+        "vector-database"
+      ]
     },
     "original_repository_sha": "a9d2742aa36f5ea0f9e8979243701a1960a9d42e",
     "enhanced_repository": "enhansome/enhansome-rag-production",
